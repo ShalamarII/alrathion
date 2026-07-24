@@ -32,4 +32,6 @@
 - [ ] Finish importing characters
 - [ ] Experiment with monks active tiles
 - [ ] Fix attacks with OTFs
-- [ ] 
+
+### Hexcrawl Generation
+- [ ] Biomes created, with bonuses set.
