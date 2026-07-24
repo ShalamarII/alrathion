@@ -1,0 +1,567 @@
+{
+	"version": 5,
+	"id": "Bd5NpyDjyuPCWK78f",
+	"traits": [
+		{
+			"id": "Tuv-OKUQWVdDHLJHa",
+			"name": "Heirloom Parasite",
+			"children": [
+				{
+					"id": "txmhVG8jNzrB-VjzQ",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Traits.adq",
+						"id": "tW-eAzIKBWa5Yc9cI"
+					},
+					"name": "Eidetic Memory",
+					"reference": "B51",
+					"tags": [
+						"Advantage",
+						"Mental"
+					],
+					"modifiers": [
+						{
+							"id": "muV5iT6-OrJu7Q8lg",
+							"name": "Photographic",
+							"reference": "B51",
+							"cost": 5,
+							"cost_type": "points",
+							"disabled": true
+						}
+					],
+					"base_points": 5,
+					"calc": {
+						"points": 5
+					}
+				},
+				{
+					"id": "tVnw_WKVulxO5ZQb2",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Traits.adq",
+						"id": "tnyT6i4xpc-zi5-m8"
+					},
+					"name": "Reawakened",
+					"reference": "B80",
+					"tags": [
+						"Advantage",
+						"Mental",
+						"Supernatural"
+					],
+					"base_points": 10,
+					"calc": {
+						"points": 10
+					}
+				},
+				{
+					"id": "tZBuILQLCN1HrFN9i",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Traits.adq",
+						"id": "tUJz4wvVveMiGDX0R"
+					},
+					"name": "Extended Lifespan",
+					"reference": "B53",
+					"tags": [
+						"Advantage",
+						"Exotic",
+						"Physical"
+					],
+					"points_per_level": 2,
+					"can_level": true,
+					"levels": 3,
+					"calc": {
+						"points": 6
+					}
+				},
+				{
+					"id": "tKAudhF49GyBKQXGE",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Traits.adq",
+						"id": "td5zyb9sBhZkHhkmv"
+					},
+					"name": "Dependency (Ranil)",
+					"reference": "B130",
+					"tags": [
+						"Disadvantage",
+						"Exotic",
+						"Physical"
+					],
+					"modifiers": [
+						{
+							"id": "mUdfDBK2cCy6cIOUM",
+							"name": "Rarity: Rare",
+							"reference": "B130",
+							"cost": -30,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mDOw-2D-r2ZAsfDOh",
+							"name": "Rarity: Occasional",
+							"reference": "B130",
+							"cost": -20,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "m3cJ3VwGnSrWVrmns",
+							"name": "Rarity: Common",
+							"reference": "B130",
+							"cost": -10,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mXc7xlSTvfRmTwZHT",
+							"name": "Rarity: Very Common",
+							"reference": "B130",
+							"cost": -5,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "m6eFOlZkUvkVuqOUw",
+							"name": "Illegal",
+							"reference": "B130",
+							"cost": -5,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mSBcxgf5VgWA-7Sfq",
+							"name": "Frequency: Constantly",
+							"reference": "B130",
+							"notes": "Lose 1 HP per minute without it",
+							"cost": 5,
+							"cost_type": "multiplier",
+							"disabled": true
+						},
+						{
+							"id": "m4RMdSRGZP0BJOOJ0",
+							"name": "Frequency: Hourly",
+							"reference": "B130",
+							"notes": "Lose 1 HP per 10 minutes after missing a hourly dose",
+							"cost": 4,
+							"cost_type": "multiplier",
+							"disabled": true
+						},
+						{
+							"id": "mXKGM6gYzbFF48AyO",
+							"name": "Frequency: Daily",
+							"reference": "B130",
+							"notes": "Lose 1 HP per hour after missing a daily dose",
+							"cost": 3,
+							"cost_type": "multiplier",
+							"disabled": true
+						},
+						{
+							"id": "m5VKgyNQMMzN-vnLw",
+							"name": "Frequency: Weekly",
+							"reference": "B130",
+							"notes": "Lose 1 HP per six hours after missing a weekly dose",
+							"cost": 2,
+							"cost_type": "multiplier",
+							"disabled": true
+						},
+						{
+							"id": "m2i9fOuHpWWgzqqjl",
+							"name": "Frequency: Monthly",
+							"reference": "B130",
+							"notes": "Lose 1 HP per day after missing a monthly dose",
+							"cost": 1,
+							"cost_type": "multiplier",
+							"disabled": true
+						},
+						{
+							"id": "mAx__goT8AdDA6n7L",
+							"name": "Frequency: Seasonally",
+							"reference": "B130",
+							"notes": "Lose 1 HP per 3 days after missing a seasonal dose",
+							"cost": 0.3333,
+							"cost_type": "multiplier",
+							"disabled": true
+						},
+						{
+							"id": "mckG6kPYARlyEm2c4",
+							"name": "Frequency: Yearly",
+							"reference": "B130",
+							"notes": "Lose 1 HP per 2 weeks after missing a yearly dose",
+							"cost": 0.1,
+							"cost_type": "multiplier",
+							"disabled": true
+						},
+						{
+							"id": "mCS8IkvttzoactiNN",
+							"name": "Aging",
+							"reference": "B130",
+							"notes": "Age 2 years for each HP lost due to this dependency",
+							"cost": 30,
+							"disabled": true
+						}
+					],
+					"calc": {
+						"points": 0
+					}
+				},
+				{
+					"id": "tophsUZ6h9tJuD1TD",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Traits.adq",
+						"id": "thdJ55ghf__io9AQa"
+					},
+					"name": "Longevity",
+					"reference": "B66",
+					"notes": "You fail aging rolls only on a 17 or 18, or only on an 18 if your modified HT is 17 or better",
+					"tags": [
+						"Advantage",
+						"Physical"
+					],
+					"base_points": 2,
+					"calc": {
+						"points": 2
+					}
+				},
+				{
+					"id": "tEwTp5lOmmRX_--gp",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Traits.adq",
+						"id": "trUV-dtFgMs1vSSlr"
+					},
+					"name": "Mindlink",
+					"reference": "B70",
+					"tags": [
+						"Advantage",
+						"Mental",
+						"Supernatural"
+					],
+					"modifiers": [
+						{
+							"id": "m_JSKQOFG_vhnOHGe",
+							"name": "Single person",
+							"reference": "B70",
+							"notes": "@Who@",
+							"cost": 5,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "muyzF9YuOT9A2TdgE",
+							"name": "2-9 people",
+							"reference": "B70",
+							"notes": "@Who@",
+							"cost": 10,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mtxYxoC3tEK5VsXzY",
+							"name": "10-99 people",
+							"reference": "B70",
+							"notes": "@Who@",
+							"cost": 20,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mFTWq--QhIk9uU6V9",
+							"name": "100-999 people",
+							"reference": "B70",
+							"notes": "@Who@",
+							"cost": 30,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mPqbG6X9kjViObtmj",
+							"name": "1000-9999 people",
+							"reference": "B70",
+							"notes": "@Who@",
+							"cost": 40,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mqRQ9TXq-619n-d4u",
+							"name": "10000-99999 people",
+							"reference": "B70",
+							"notes": "@Who@",
+							"cost": 50,
+							"cost_type": "points",
+							"disabled": true
+						},
+						{
+							"id": "mRdzjdBbEkyBHwVrP",
+							"name": "Broadcast",
+							"reference": "B91",
+							"cost": 50,
+							"disabled": true
+						},
+						{
+							"id": "mPIk1IxW3-NvIdlCg",
+							"name": "Cybernetic",
+							"reference": "B69",
+							"cost": 50,
+							"disabled": true
+						},
+						{
+							"id": "mmAlwjZUBGi7yd1G-",
+							"name": "Sensory",
+							"reference": "B69",
+							"cost": 20,
+							"disabled": true
+						},
+						{
+							"id": "moZElO8CtJUbneHw4",
+							"name": "Universal",
+							"reference": "B69",
+							"cost": 50,
+							"disabled": true
+						},
+						{
+							"id": "m3-nYQBbqSdvkq-Us",
+							"name": "Video",
+							"reference": "B91",
+							"cost": 40,
+							"disabled": true
+						},
+						{
+							"id": "m5eqzugeSrq-r0fYP",
+							"name": "Cybernetic Only",
+							"reference": "B70",
+							"cost": -50,
+							"disabled": true
+						},
+						{
+							"id": "mOdKSAs4Amk9-yAXG",
+							"name": "Racial",
+							"reference": "B70",
+							"notes": "@Race@",
+							"cost": -20,
+							"disabled": true
+						},
+						{
+							"id": "mmwHapCepwpMH7yPK",
+							"name": "Sensory Only",
+							"reference": "B70",
+							"cost": -20,
+							"disabled": true
+						},
+						{
+							"id": "mo3P07u4j_nQ1qE6d",
+							"name": "Telecommunication",
+							"reference": "B70",
+							"cost": -20,
+							"disabled": true
+						},
+						{
+							"id": "mVBMDJea6ZhaEScmJ",
+							"name": "Vague",
+							"reference": "B91",
+							"cost": -50,
+							"disabled": true
+						}
+					],
+					"calc": {
+						"points": 0
+					}
+				},
+				{
+					"id": "tjWDL9MuaqsFEnBCO",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Traits.adq",
+						"id": "tldTdgiYUOpNc0Hmq"
+					},
+					"name": "Obscure (Vraul)",
+					"reference": "B72,P64,PSI16",
+					"tags": [
+						"Advantage",
+						"Exotic",
+						"Physical"
+					],
+					"modifiers": [
+						{
+							"id": "mPmGLMH_DHeA6jGQU",
+							"name": "Defensive",
+							"reference": "B72",
+							"cost": 50,
+							"disabled": true
+						},
+						{
+							"id": "mfF9jC8qjaMrh2d_1",
+							"name": "Extended",
+							"reference": "B72",
+							"notes": "@Sense@",
+							"cost": 20,
+							"disabled": true
+						},
+						{
+							"id": "mhmaqoCiFL3Pb4Zy7",
+							"name": "Ranged",
+							"reference": "B72",
+							"cost": 50,
+							"disabled": true
+						},
+						{
+							"id": "m3_xJ2-_KGMq3J4ST",
+							"name": "Stealthy",
+							"reference": "B72",
+							"cost": 100
+						},
+						{
+							"id": "mzxyC1NfJ-Ir0b2pQ",
+							"name": "Always On",
+							"reference": "B72",
+							"cost": -50,
+							"disabled": true
+						},
+						{
+							"id": "mRHvlr4f4rt0MZ58A",
+							"name": "Limited",
+							"reference": "P65",
+							"notes": "@Source@",
+							"cost": -20,
+							"disabled": true
+						},
+						{
+							"id": "mB4VE1yINaIYGyw-D",
+							"name": "Limited",
+							"reference": "P65",
+							"notes": "@Power@",
+							"cost": -40,
+							"disabled": true
+						},
+						{
+							"id": "mOvRulkpkG5xUHXwr",
+							"name": "Anti-Targeting",
+							"reference": "PSI16",
+							"cost": -20,
+							"disabled": true
+						}
+					],
+					"points_per_level": 2,
+					"can_level": true,
+					"levels": 1,
+					"calc": {
+						"points": 4
+					}
+				}
+			],
+			"calc": {
+				"points": 27
+			}
+		}
+	],
+	"skills": [
+		{
+			"id": "srBRMv3R16YL24Wyk",
+			"source": {
+				"library": "richardwilkes/gcs_master_library",
+				"path": "Basic Set\\Basic Set Skills.skl",
+				"id": "s7zUqAO5PEC5JKk_W"
+			},
+			"name": "Fast-Talk",
+			"reference": "B195",
+			"tags": [
+				"Criminal",
+				"Social",
+				"Spy",
+				"Street"
+			],
+			"difficulty": "iq/a",
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -5
+				},
+				{
+					"type": "skill",
+					"name": "Acting",
+					"modifier": -5
+				}
+			],
+			"points": 1
+		},
+		{
+			"id": "svW5FefX2FH7D7bV3",
+			"source": {
+				"library": "richardwilkes/gcs_master_library",
+				"path": "Basic Set\\Basic Set Skills.skl",
+				"id": "sjU9kn3jTX-_5Q5p5"
+			},
+			"name": "Psychology",
+			"reference": "B216",
+			"tags": [
+				"Humanities",
+				"Social Sciences"
+			],
+			"difficulty": "iq/h",
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -6
+				},
+				{
+					"type": "skill",
+					"name": "Sociology",
+					"modifier": -4
+				}
+			],
+			"points": 1
+		},
+		{
+			"id": "s3cadrnjEKgVVyxok",
+			"source": {
+				"library": "richardwilkes/gcs_master_library",
+				"path": "Basic Set\\Basic Set Skills.skl",
+				"id": "sgWf_qVqI7HrPQUo7"
+			},
+			"name": "Tactics",
+			"reference": "B224,MA60",
+			"tags": [
+				"Military",
+				"Police"
+			],
+			"difficulty": "iq/h",
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -6
+				},
+				{
+					"type": "skill",
+					"name": "Strategy",
+					"modifier": -6
+				}
+			],
+			"points": 1
+		},
+		{
+			"id": "s8tU6gxnW8Aru3nd7",
+			"source": {
+				"library": "richardwilkes/gcs_master_library",
+				"path": "Basic Set\\Basic Set Skills.skl",
+				"id": "sHuT7RWMID47mVbzP"
+			},
+			"name": "Writing",
+			"reference": "B228",
+			"tags": [
+				"Arts",
+				"Entertainment",
+				"Scholarly"
+			],
+			"difficulty": "iq/a",
+			"defaults": [
+				{
+					"type": "iq",
+					"modifier": -5
+				}
+			],
+			"points": 1
+		}
+	]
+}

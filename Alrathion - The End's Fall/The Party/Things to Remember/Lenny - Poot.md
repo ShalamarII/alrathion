@@ -1,0 +1,1 @@
+Normal Enhanced to High Mana - Someone with Magery gets the FP spent on [IQ/A](https://gurps.fandom.com/wiki/Magic:_The_Least_of_Spells "Magic: The Least of Spells") spells back at the start of their next turn just as if they were in very high mana.

@@ -1,0 +1,8 @@
+- Mages keep a vial of True-Blood (Their Original Blood), so when training they have a reference.
+- A family that will teach anyone magic for a price
+- An underground society of Ersatz, where magic is studied.
+- 5 total races
+- Have the Locket of La'Hamar be the key to getting off-world.
+- HAVE THE SYMBOLIC REPRESENTATION OF THE RUNE BE A SNAPSHOT OF THE GRAPH!?!?!?!?!?!?!!?!?!?!?!
+
+Hangul - Korea For Font (Super and Sub) Sets

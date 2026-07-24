@@ -1,0 +1,6 @@
+Protobeings were a manifestation of the active [[Realms of Existence]] in the time before consciousness was created. These beings consist of lower level beings (proto-idran, proto-kathali, etc.) but also consisted of higher level beings (Maestrum, Arajak, Ghira).
+
+##### Plentiful; Society
+The lower level beings thought it good to be together, and so they maintained small groups of ~5 to 20 people. This resulted in a form of culture being created, with peoples natural instincts being taken over by context. Some of these people were considered exceptional, able to sense an energy that fewer still could manipulate. These were the psychics, shamans, diviners and vodouists. And this practice of magik gave the people consciousness. So they spread it, first through Religion, with early religious traditions being rudimentary spell-forms, until they could cast it on the planet itself. There is only 2 (additional) instincts that those with consciousness have: The proclivity to create, and the want to understand that consciousness. 
+##### Few and Far Between
+The Gods were so few and far between they could not relate to the lower level proto-peoples' of the world. Maestrum felt great woe of this and attempted to fracture his "self", and what leaked were Umbrae. He has largely been able to shore up these cracks, taking from those myriad protopeople's magik.

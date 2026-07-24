@@ -1,0 +1,1 @@
+The user creates a metaphysical space within the mind that contains their spells.

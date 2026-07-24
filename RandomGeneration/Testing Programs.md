@@ -1,0 +1,1 @@
+;;getNewNPC 1 random::
