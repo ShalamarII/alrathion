@@ -17,3 +17,8 @@ This is the place which psionics and consciousness came to exist. People existed
 
 Level 4: Transcendence
 This is the level under which consciousness truly leaves the body and can stand on its own, remaining despite its natural Vraul interacting with all others. Its is affected as a state of thought, not having instinct, reaching "True Silence".
+
+### A Time Before
+*I harken back to a time before magic, before the weavings of the universe's divine energy cause man to stumble and fall.*
+
+- Rai-lor the Wise

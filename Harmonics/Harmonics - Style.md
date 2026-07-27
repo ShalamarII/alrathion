@@ -222,11 +222,11 @@ Fire: <span style="font-size: 32px;" class="Illinean"> Fire </span>
 # Questions about the System
 
 #### What is your Magic called?
-    Composing
+    Harmonics
 #### Level of Magic System?
 Ultra High - Cosmic Levels of manipulation, most usage is Medium (Kingdom built around it)
 #### Learned, Inherent, or Inherent-Learned
-Inherent-learned, you need to be special ***and*** learn it.
+Inherent-learned, you need to be special ***and*** learn it, though it can be engineered.
 
 #### If inherent, how common to be born with it?
 Hereditary (25% Dominant, 75% Recessive)
@@ -239,7 +239,7 @@ Mana, but most of the utilization is through Science Fiction (Spells are formula
 - How do you control it? Why does that work?
     You don't control Vraul directly, you utilize psionic abilities/physical constructs to create a flow of mana that causes an effect. It works because Vraul is naturally directed by almost everything. Vraul is directed even by inanimate things, but the flow is not smooth enough to align with any effectual wavelengths. 
 - Can you see it? Feel it? Manipulate it by hand?
-    Virtuosos can see , sense , and manipulate the flow of it (through psionics) or act as a bodily conduit for other Vraul (Giving it a path). As for manipulation by hand, it would need tools/psionic abilities, or else it'll just fall through your hand.
+    Virtuosos can see, sense, and manipulate the flow of it (through psionics) or act as a bodily conduit for other Vraul (Giving it a path). As for manipulation by hand, it would need tools/psionic abilities, or else it'll just fall through your hand.
 - Are there more than one type of Vraul?
     - No, there is not. The only differences are in its form.
 - Despite where you find it now, where did it come from originally?

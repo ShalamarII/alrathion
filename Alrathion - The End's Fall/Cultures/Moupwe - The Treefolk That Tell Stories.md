@@ -1,10 +1,9 @@
-Borne of the forest, these are the people who walk amongst the trees. They have a limited ability to share their senses with trees around them.
-
+Borne of the forest, the Moupwe people who walk amongst the trees. They have a limited ability to share their senses with trees around them.
 ### The Great Story
-The Moupwe think that stories are our way of connecting with history, and that everything has a story. As such, they travel in packs, collecting stories from the trees around them. They inscribe these memories in tomes, bound of their own bark and sap. These books naturally contain the essence of the creator in them. 
+The Moupwe think that stories are our way of connecting with history, and that everything has a story. As such, they travel in packs, collecting stories from the trees around them. They inscribe these memories in tomes, bound of their own bark and sap. These books naturally contain the essence of the creator in them, which is why Moupwe feel a more spiritual connection with their own.
 
 ### The Idra Hunt
-The Idra hunt the Moupwe because of their tomes, as they contain innate (magical) power. By using these tomes, they gain greater natural agility, quickness of though, and strength. The Menari protect them for this reason. 
+The Idra hunt the Moupwe because of their tomes, as they contain innate (magical) power. By using these tomes, they gain greater natural agility, quickness of thought, and strength. The Menari protect them for this reason.
 
 ### Menari | Heart-Trees
 The Moupwe help upkeep the Menari's Heart-Trees in exchange for the protection they receive. Thusly, it is not uncommon to see 3-5 Menari traveling with the Moupwe. The Heart-Trees are like good friends to the Moupwe people.

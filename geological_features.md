@@ -12,4 +12,9 @@ For example, if you had 8 GeoFs and an equal distribution roll expression (1d8),
 
 | **Geological Feature** | **Roll** |
 | ---------------------- | -------- |
+| Mountain               |          |
+| Body of Water, Large   |          |
+| Body of Water, Small   |          |
+|                        |          |
+|                        |          |
 |                        |          |

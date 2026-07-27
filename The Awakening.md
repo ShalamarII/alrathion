@@ -1,0 +1,3 @@
+The Awakening is a ritual within the Menari & Moupwe cultures that is about perspective, journey, and rebirth. The awakening is the only time that the full power of a Great Book is bestowed upon the Menari, so that they may lead it to it's next Journey.
+
+There have been 7 such journeys since the [[The Great War & The Illinea Empire's Exodus|Illinean War]]; it is time for the 8th. Menari prepare for this their whole lives, a story bearer weaving color itself to find where next to bring stories. It is the most meaningful journey the Menari can partake in, and it is the highest calling of a member of the Moupwe to give their life to sustain the Great Book.

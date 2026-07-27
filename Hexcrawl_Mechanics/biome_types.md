@@ -39,4 +39,4 @@ The multi adjacency roll table will be filled up with an equal number of each bi
 | Aquatic         | 8    |
 
 ### Biome Bonuses
-A Biome Bonus is a +/- added to the end of geological features.
+A Biome Bonus is a +/- added to the end of geological features. It is meant to maintain continuity in your world, in your landmasses, and within populations, 
