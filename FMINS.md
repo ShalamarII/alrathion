@@ -1,1 +1,0 @@
-The site is converting apostrophes (') and ampersands (&) to hypens (-) in the url, causing data to not populate.
