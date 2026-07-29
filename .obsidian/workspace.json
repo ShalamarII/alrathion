@@ -27,40 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hexcrawl_Mechanics/world_generation.md",
+                "file": "party-gold-tracking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "world_generation"
+              "title": "party-gold-tracking"
             }
           },
           {
-            "id": "1645b3087bef3385",
+            "id": "2f9e174cc3ac88dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain System.md",
+                "file": "Cartridge Design Mechanism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Domain System"
-            }
-          },
-          {
-            "id": "41cee8fed0e7fbc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inventory Domain System.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Inventory Domain System"
+              "title": "Cartridge Design Mechanism"
             }
           },
           {
@@ -76,19 +62,9 @@
               "icon": "lucide-file",
               "title": "Menari - The People of Nature"
             }
-          },
-          {
-            "id": "da56af8efac3c236",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "creation story",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,8 +123,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "notebook-navigator",
-              "title": "Notebook Navigator"
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
             }
           }
         ]
@@ -248,6 +224,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "dcc157c5ee15ddc4",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ],
         "currentTab": 5
@@ -258,11 +244,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -272,18 +253,27 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "notebook-navigator:Notebook Navigator": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41cee8fed0e7fbc5",
+  "active": "89bbff2869525f8c",
   "lastOpenFiles": [
-    "Domain System.md",
+    "party-gold-tracking.md",
+    "Cartridge Design Mechanism.md",
     "Inventory Domain System.md",
+    "Domain System.md",
+    "Hexcrawl_Mechanics/Affiliation.md",
+    "Hexcrawl_Mechanics/Untitled.md",
+    "Hexcrawl_Mechanics/Faction-Style Daily Play.md",
     "Hexcrawl_Mechanics/world_generation.md",
+    "Hexcrawl_Mechanics/Hexcrawl_Philosophy.md",
     "Hexcrawl_Mechanics/cultural_types.md",
     "Hexcrawl_Mechanics/political_types.md",
-    "Hexcrawl_Mechanics/Affiliation.md",
-    "Hexcrawl_Mechanics/Hexcrawl_Philosophy.md",
     "To Do.md",
     "Welcome.md",
     "Alrathion - The End's Fall/Cultures/Moupwe - The Treefolk That Tell Stories.md",
@@ -300,10 +290,6 @@
     "geological_features.md",
     "Hexcrawl_Mechanics/biome_types.md",
     "Hexcrawl_Mechanics/economic_types.md",
-    "Hexcrawl_Mechanics/Hexcrawl_Generation.md",
-    "Alrathion - The End's Fall/Illinean Alphabet.md",
-    "Hexcrawl_Mechanics/Faction-Style Daily Play.md",
-    "Alrathion - The End's Fall/Cultures/The People from Beyond the Stars - Cosmillae.md",
     "Hexcrawl_Mechanics",
     "Untitled.base",
     "Templates/TTRPGs",

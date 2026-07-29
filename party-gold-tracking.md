@@ -1,0 +1,1 @@
+Party Gold will be tracked as a [[Hoards|"hoard"]].

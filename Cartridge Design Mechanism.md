@@ -1,0 +1,1 @@
+Cartridges are easily swappable ***Fully-Contained*** systems. They may have *n* inputs and *x* outputs.
