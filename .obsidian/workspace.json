@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a385608aa7fe3e69",
+        "id": "e51e2ed31506517e",
         "type": "tabs",
         "children": [
           {
-            "id": "3b28026b5f716b3b",
+            "id": "187f762aaefd69ad",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.4"
+                "file": "Dice & Cards.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.4"
+              "icon": "lucide-file",
+              "title": "Dice & Cards"
             }
           }
         ]
@@ -39,9 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -80,8 +80,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "notebook-navigator",
-              "title": "Notebook Navigator"
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
             }
           }
         ]
@@ -188,6 +188,16 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "208e6ca2885fc09d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
@@ -218,8 +228,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b28026b5f716b3b",
+  "active": "187f762aaefd69ad",
   "lastOpenFiles": [
+    "Dice & Cards.md",
     "party-gold-tracking.md",
     "geological_features.md",
     "Inventory Domain System.md",
