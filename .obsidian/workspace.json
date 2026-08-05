@@ -11,12 +11,14 @@
             "id": "3b28026b5f716b3b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.4"
+                "file": "Hoards.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.4"
+              "icon": "lucide-file",
+              "title": "Hoards"
             }
           }
         ]
@@ -220,9 +222,10 @@
   },
   "active": "3b28026b5f716b3b",
   "lastOpenFiles": [
+    "Inventory Domain System.md",
+    "Hoards.md",
     "party-gold-tracking.md",
     "geological_features.md",
-    "Inventory Domain System.md",
     "Hexcrawl_Mechanics/world_generation.md",
     "Hexcrawl_Mechanics/political_types.md",
     "Hexcrawl_Mechanics/economic_types.md",
