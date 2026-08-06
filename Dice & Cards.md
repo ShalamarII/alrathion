@@ -3,6 +3,6 @@ Dice should be a representation of chance, Cards should be a representation of o
 ### Idea Dump
 - Cards that represent the skills.
 - A unique card pool for each skill? \DONT LIKE
-- Deck-building? Drafting cards as level ups? Opposed Checks??? Double Sided with bonuses to skills????
+- [[deckbuilding-as-abilities|Deck-building?]] Drafting cards as level ups? Opposed Checks??? Double-Sided with bonuses to skills???? Deck pools (Slay The Spire) Two cards a turn (Attacks)
 - Cards that work together with dice?
 - Cards that represent the outcome directly (like tarot cards) \NO
