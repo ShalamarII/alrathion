@@ -1,6 +1,8 @@
 Credit: Hugedomination
 
-- [[deckbuilding-as-abilities|Deck-building?]] Drafting cards as level ups? Opposed Checks??? Double-Sided with bonuses to skills???? Deck pools (Slay The Spire) Two cards a turn (Attacks)
+- [[deckbuilding-as-abilities|Deck-building?]] Drafting cards as level ups? Opposed Checks??? Double-Sided with bonuses to skills???? 
+- Deck pools (Swashbuckling, Gunsmith, Archer, Stealthy) 
+- Two cards a turn (Attacks)
 
 
 ### Obtaining Cards
