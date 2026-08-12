@@ -27,26 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Harmonics/Spells/Codex - Mind.md",
+                "file": "Skills.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Codex - Mind"
-            }
-          },
-          {
-            "id": "07e7a489a6243f3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dice & Cards.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dice & Cards"
+              "title": "Skills"
             }
           }
         ],
@@ -111,8 +97,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "notebook-navigator",
-              "title": "Notebook Navigator"
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
             }
           }
         ]
@@ -219,6 +205,16 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "2876bffaa2989780",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
@@ -251,12 +247,22 @@
   },
   "active": "2be3c44c649ae766",
   "lastOpenFiles": [
+    "deckbuilding-as-abilities.md",
+    "Dice & Cards.md",
+    "Skills.md",
+    "Domain System.md",
+    "Harmonics/Spells/Codex - Mind.md",
+    "ChatGPT_MD/chats/Untitled.md",
+    "To Do.md",
+    "ChatGPT_MD/chats/Untitled 1.md",
+    "Untitled.md",
+    "ChatGPT_MD/chats",
+    "ChatGPT_MD/chats.md",
+    "ChatGPT_MD",
     "Harmonics/Genres.md",
     "Harmonics/Character Concepts.md",
     "Harmonics/Harmonics - GURPS.md",
     "Harmonics/Harmonics - Style.md",
-    "deckbuilding-as-abilities.md",
-    "Dice & Cards.md",
     "conflict-files-obsidian-git.md",
     "Hoards.md",
     "Inventory Domain System.md",
@@ -270,16 +276,8 @@
     "Hexcrawl_Mechanics/Necessary_Common_Industry.md",
     "Hexcrawl_Mechanics/Hexcrawl_Philosophy.md",
     "Hexcrawl_Mechanics/Hexcrawl_Guidebook_Desktop.pdf",
-    "Hexcrawl_Mechanics/Hexcrawl_Generation.md",
     "Hexcrawl_Mechanics/Hexcrawl_Encounter_Design_Guidebook.pdf",
-    "Hexcrawl_Mechanics/Faction-Style Daily Play.md",
-    "Hexcrawl_Mechanics/Affiliation.md",
     "Hexcrawl_Mechanics",
-    "Harmonics/The Laws of Magic - DEPRECATED.md",
-    "Domain System.md",
-    "Cartridge Design Mechanism.md",
-    "JSON/Pseudocode - has.md",
-    "Affiliation.md",
     "Hexcrawl_Encounter_Design_Guidebook.pdf"
   ]
 }
