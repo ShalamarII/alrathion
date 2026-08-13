@@ -1,7 +1,7 @@
 Abilities/Spells are known as "Experiences". They are encoded knowledge and skills directly, and can be sold, traded and stolen.
 
 A Hail Mary is an extraordinary attempt to do something out of your normal reach. 
-Exertion Consequences are when doing a hail mary
+Exertion Consequences are when doing a hail mary,
 
 When you use a skill (Acrobatics, Strength, Herbology, etc.), you have a chance of encoding it into your personal experience (Self). This is based off of the complexity dice of the Skill you used. To gain a requisite level of knowledge in a skill, you must:
 1. Succeed in using the skill (Roll against the difficulty score \[or two higher if doing a hail mary]).
