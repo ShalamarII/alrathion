@@ -22,3 +22,15 @@ find . -type f \( -not -path "./.git/*" -not -path "./.obsidian/*" -not -name ".
 
 - Last updated: 2026-08-13
 - Applies to any future regeneration of `Summary.md` or similar full-vault listings.
+
+https://obsidian.md/help/obsidian-flavored-markdown
+https://obsidian.md/help/advanced-syntax
+https://obsidian.md/help/syntax
+https://obsidian.md/help/tags
+https://obsidian.md/help/callouts
+https://obsidian.md/help/links
+https://obsidian.md/help/aliases
+https://obsidian.md/help/embeds
+
+
+https://blacksmithgu.github.io/datacore/
