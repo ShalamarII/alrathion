@@ -1,6 +1,6 @@
 # Scaffolding Instructions
 
-Rules for maintaining `Reference Folder/Summary.md` and any other whole-vault indexing/scaffolding work in this repo going forward. 
+Rules for maintaining `Reference Folder/Summary.md` and any other whole-vault indexing/scaffolding work in this repo. 
 
 ## Exclusions
 
