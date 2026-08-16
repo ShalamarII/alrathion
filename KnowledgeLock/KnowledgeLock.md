@@ -27,3 +27,10 @@ Vault = an Obsidian Vault
 - Needs to be Vault Agnostic
 	- Datacore (data should be extendable)
 - Files that modules are in need to remain editable in Obsidian (stay in .md) and should be easily query-able.
+
+#### Possible Solutions
+- Creating multiple files for the same thing, and giving a player access to that information
+- Password locking information
+- DM only having access to knowledge and marking it according to which classes would have that information. (Knowledge Domains)
+
+Knowledge Domains are an area that would be researched and have 3 tiers of depth. Tier One is information anyone would know, Tier Two is information only well-researched people would know, Tier Three is specific information that people specialized in that field would know (Usually "holy grail" information/lore/fun facts)
