@@ -1,0 +1,3 @@
+Static knowledge is a TTRPG system that means that there is no "rolls" for knowledge. You have domains.
+
+Knowledge Domains are an area that would be researched and have 3 tiers of depth. Tier 1 is information anyone would know, Tier 2 is information only well-researched people would know, Tier 3 is specific information that people specialized in that field would know (Usually "holy grail" information/lore/fun facts)
