@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Static Knowledge.md",
+                "file": "Hexcrawl_Mechanics/The Blackman TTRPG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Static Knowledge"
+              "title": "The Blackman TTRPG"
             }
           }
         ],
@@ -292,11 +292,14 @@
   },
   "active": "4913937b96041240",
   "lastOpenFiles": [
+    "Hexcrawl_Mechanics/Dawn_of_Worlds.pdf",
+    "Hexcrawl_Mechanics/Hexcrawl_Philosophy.md",
+    "Hexcrawl_Mechanics/The Blackman TTRPG.md",
     "KnowledgeLock/KnowledgeLock.md",
     "KnowledgeLock/KnowledgeLock-example.md",
     "KnowledgeLock/KnowledgeLock-plan.md",
-    "KnowledgeLock",
     "Static Knowledge.md",
+    "KnowledgeLock",
     "Reference Folder/Syntax/Datacore Plugin Syntax.md",
     "Reference Folder/Scaffolding Instructions.md",
     "To Do.md",
@@ -321,9 +324,6 @@
     "conflict-files-obsidian-git.md",
     "Hoards.md",
     "Inventory Domain System.md",
-    "party-gold-tracking.md",
-    "geological_features.md",
-    "Hexcrawl_Mechanics/world_generation.md",
     "Hexcrawl_Mechanics/Hexcrawl_Guidebook_Desktop.pdf",
     "Hexcrawl_Mechanics/Hexcrawl_Encounter_Design_Guidebook.pdf",
     "Hexcrawl_Mechanics",
