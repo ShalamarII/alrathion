@@ -1,3 +1,1 @@
-```
-model: ollama@qwen3.5
-```
+Monday - Review Search Console for Trend Publishing - ModernMetals & FFJournal.net

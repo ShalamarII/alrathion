@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Folder/Scaffolding Instructions.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scaffolding Instructions"
+              "title": "Untitled"
             }
           }
         ],
@@ -276,12 +276,12 @@
   },
   "active": "bb5d0dc365b2d69c",
   "lastOpenFiles": [
+    "Reference Folder/Scaffolding Instructions.md",
     "Reference Folder/Syntax/Templater Plugin Syntax.md",
     "Reference Folder/Syntax/Obsidian Markdown Syntax.md",
     "Reference Folder/Syntax/Datacore Plugin Syntax.md",
     "Reference Folder/Syntax",
     "Reference Folder/Summary.md",
-    "Reference Folder/Scaffolding Instructions.md",
     "Skills.md",
     "Reference Folder",
     "Untitled.md",
