@@ -9,10 +9,10 @@ I want to tell a story that can describe life itself. I grew up reading books, p
 I want a person experiencing the stories created to feel like that too.
 
 #### What a TTRPG Needs
-A TTRPG has always felt like a unique method of creating stories. A multi-layered approach to finding a story. A DM created a world to be interacted with, to roam, players create a distillation of a part of themselves to trek that world (or they create a random character in which they distill actions into).
+A TTRPG has always felt like a unique method of creating stories. A multi-layered approach to finding a story. A DM creates a world to be interacted with, to roam, players create a distillation of a part of themselves to trek that world (or they create a random character in which they distill actions into).
 
 ###### Mechanics needed
-- Movement
+- Movement (Combat/In Story)
 - Encumbrance (or lack of it)
 - Inventory
 - Resting
@@ -27,3 +27,15 @@ A TTRPG has always felt like a unique method of creating stories. A multi-layere
 ## Philosophy of a TTRPG
 This philosophy needs to take a significant portion from cRPG's as I want the gameplay to feel tactical but not overwhelming (similar to Fire Emblem). This is part of the reason I'm taking a cards based approach for abilities and skills. It maximizes expandability, addendums, erratas, etc. It also gives a physical representation of the abilities and spells you have. 
 
+
+#### Pillars of my TTRPG
+- Revolution (Economic and Thought)
+- Individuality
+- Community
+- Teamwork
+- Freedom
+- Expression
+- Toolbox
+- Tactical
+- Immersive
+- Collaborative
