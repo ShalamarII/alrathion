@@ -26,3 +26,4 @@ A TTRPG has always felt like a unique method of creating stories. A multi-layere
 
 ## Philosophy of a TTRPG
 This philosophy needs to take a significant portion from cRPG's as I want the gameplay to feel tactical but not overwhelming (similar to Fire Emblem). This is part of the reason I'm taking a cards based approach for abilities and skills. It maximizes expandability, addendums, erratas, etc. It also gives a physical representation of the abilities and spells you have. 
+
