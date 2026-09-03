@@ -1,6 +1,6 @@
 Creating a character is about creating a story. You choose a gameplay style, craft a character that can have an arc, and ready yourselves to touch the world you are thrust upon.
 
-
+The Mighty Nine
 #### Tales
 Tales are a story of what you're character has been doing/is doing before this adventure you're planning to go on. Tales describe who you are. They define traits like what you're good at, who you may know, what you do for coin. They come with a set of skills that represents the tale to be told (which may be adjusted).
 
@@ -34,10 +34,12 @@ Fates Options
 - The Double Agent - You are a betrayer, but nobody knows
 - Joe/Jill - Out for a day at market, you are snatched into a plot far larger than the village/city/region you occupy.
 - The Parent - You are the benefactor/parent of another; maintain their hope.
-- 
 
 #### Domains
 Domains are your characters abilities. Would you like to cast manipulate your foes, create whimsy, be a murder hobo? This will define how you affect the battlefield. You are encouraged to pick a minimum of two of these Domains. You'll find helpful tips such as, what they 'do' in terms of combat exploration and socially.
+
+
+Domain names will go away over time, it is easier to make abilities based on class/domain at first, then group them together as a guide.
 
 Domain Options:
 - Tactician:
@@ -51,3 +53,13 @@ Domain Options:
 		- Writing
 		- Drawing
 		- Tactics
+- Merchant
+	- Combat:
+		- Better Weapon Choices
+		- Low-Combat Trained Pets (Dogs that will attack on command, but do no more.)
+	- Exploration:
+		- Caravans (Higher Movement Speed)
+		- Premade Maps
+	- Socially:
+		- Selling Skill
+		- Connections to 
