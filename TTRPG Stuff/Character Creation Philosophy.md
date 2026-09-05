@@ -41,6 +41,23 @@ Domains are your characters abilities. Would you like to cast manipulate your fo
 
 Domain names will go away over time, it is easier to make abilities based on class/domain at first, then group them together as a guide.
 
+Manipulation means to control targets literally, whether it is through taunt, enraging, etc.
+- Single Target Manipulation
+- Multi Target Manipulation
+- Terrain Manipulation
+
+Control means to force bad effects onto targets, whether through blindness, traps or more.
+- Single Target Control
+- Multi Target Control
+- Area Control
+- Debuffs
+
+Enhancement means to give good effects to targets, whether with a downside or not.
+- Single Target Enhancement
+- Multi Target Enhancement
+- Sustained Enhancement
+- Burst Enhancement
+
 Domain Options:
 - Tactician:
 	- Combat:
