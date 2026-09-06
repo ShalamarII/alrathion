@@ -13,6 +13,7 @@ Functionality:
 ```
 module_array {
 	 {
+		num ID: ;
 		string module_name: ;
 		string module_title: ; 
 		num module_description: ; 

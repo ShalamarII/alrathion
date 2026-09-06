@@ -1,27 +1,21 @@
-Abilities/Spells are known as "Experiences". They are encoded knowledge and skills directly, and can be sold, traded and stolen.
+Skills are the classification of your knowledge. It is used to decide what you are good at, what abilities/spells you can use and what you know.
+
+The GM should feel free to create skills at their own whim.
 
 A Hail Mary is an extraordinary attempt to do something out of your normal reach. 
 
-When you succeed with a skill (Acrobatics, Strength, Herbology, etc.), you have a chance of encoding it into your personal experience (Self). This is based off of the complexity dice of the Skill you used. To gain a requisite level of knowledge in a skill, you must:
-1. Succeed in using the skill (Roll against the difficulty score \[or two higher if doing a hail mary]).
-2. Roll against the Complexity Dice of that skill and get a one.
-3. Be at or above the General Dice of the new Skill's Complexity Dice.
-This allows you to gain a familiarity die. You may only attempt to gain Familiarity if you are within one Skill Dice of the new Skill.
+| Skill Level         | Skill Dice | Hail Mary Modifier |
+| ------------------- | ---------- | ------------------ |
+| Clear               | 1d6        | +2                 |
+| Subtle              | 1d8        | +3                 |
+| Opaque              | 1d10       | +4                 |
+| Dense               | 1d12       | +6                 |
+| Granular (d12 + d4) | 1d16       | +8                 |
+| Surgical (d12 + d6) | 1d18       | +10                |
 
-> Example 1
-> If you gain familiarity with Mechanic (1d12 Complexity Dice) but only have a 1d8 in INT, you do not gain familiarity.
+To use an skill, you roll 3d6 against the Complexity Dice for that Skill, aiming to roll at or above than it. This is known as the Roll Difficulty (RD), it is analogous to a Difficulty Class (DC) in other systems.
 
-| Skill Level | Skill Dice | Hail Mary Modifier |
-| ----------- | ---------- | ------------------ |
-| Clear       | 1d6        | +2                 |
-| Subtle      | 1d8        | +3                 |
-| Opaque      | 1d10       | +4                 |
-| Dense       | 1d12       | +6                 |
-| Granular    | 1d16       | +8                 |
-
-To use an ability, you roll 3d6 against the Complexity Dice for that Skill, aiming to roll at or above than it. This is known as the Roll Difficulty (RD), it is analagous to a Difficulty Class (DC) in other systems.
-
-When performing a hail mary make the RD higher by two. (+2RD)
+When performing a *Hail Mary* make the RD higher by the Hail Mary modifier (+xHM)
 
 
 Terminology
@@ -29,3 +23,7 @@ Terminology
 - +/-NRD - Apply the modifier, known as +/-N to the Roll Difficulty
 - CD - Complexity Die/Dice
 - HM - Hail Mary: an extraordinary attempt to do something out of your normal reach. Adds a difficulty modifier to the Roll Difficulty
+
+
+#### Extraordinary Skills
+Sometimes a person is so gifted at a skill that they become unfathomable by normal means. This level of skill is called an *Extraordinary Skill*. Whenever a player or NPC has a skill dice at or above 18 they become *Extraordinary* within that skill. For every 6 (Starting at 18) levels in that skill, add an extra dice when rolling against that skill.

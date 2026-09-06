@@ -1,6 +1,58 @@
 Creating a character is about creating a story. You choose a gameplay style, craft a character that can have an arc, and ready yourselves to touch the world you are thrust upon.
 
 The Mighty Nine
+
+#### Stats
+
+Stats in this TTRPG are prerequisites for what you can learn, do, carry, etc. They are represented by a dice the same as skills.
+
+##### Strength
+Strength describes the raw ability to push, pull, carry, and exert force against or with things. 
+##### Dexterity
+Dexterity describes the ability to tactfully apply force against or with things.
+##### Intelligence
+Intelligence describes the ability to apply thinking with versatility.
+##### Social
+Social describes the ability to communicate with exactness.
+##### Vigor
+Vigor describes the ability to maintain homeostasis.
+##### Size Modifier
+Size Modifiers describe how large a given character is within a 5 foot hex.
+###### Tiny
+Strength is demoted by one dice (You buy 1d8 and it gets demoted to 1d6) and Dexterity is promoted by one.
+###### Small, Medium, Large
+Everything stays the same.
+###### Giant
+Strength promoted by one dice (You buy 1d8 and it gets promoted to 1d10) and dexterity is demoted by one.
+
+| Size Name            | Size Modifier |
+| -------------------- | ------------- |
+| Tiny                 | -1            |
+| Small, Medium, Large | 0             |
+| Extra Large          | +1            |
+##### Stamina
+Stamina is how much you can take actions. You have a stamina equal to the dice level it has.
+###### Recovery
+Stamina recovery is passively one per hour, 2 per hour if resting actively. This can be changed by taking abilities.
+
+##### Speed
+Speed is how far you can move in one second (in Yards) and how far you can move in one hour (in Kilometres). This is shown as X/X (Yards/Kilometres). These are NOT used for initiative.
+##### Examples
+
+**The Average Human**: 
+	Str (Strength): 1d8
+	Dex (Dexterity): 1d8
+	Int (Intelligence): 1d8
+	Soc (Social): 1d10
+	Vig (Vigor): 1d8
+
+**The Average Goblin**:
+	Str (Strength): d6
+	Dex (Dexterity): d10
+	Int (Intelligence): d8
+	Soc (Social): d8
+	Vig (Vigor): d6
+	
 #### Tales
 Tales are a story of what you're character has been doing/is doing before this adventure you're planning to go on. Tales describe who you are. They define traits like what you're good at, who you may know, what you do for coin. They come with a set of skills that represents the tale to be told (which may be adjusted).
 
