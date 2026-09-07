@@ -12,7 +12,7 @@ These represent finite, repeatable things, such as repeating a speech, doing a f
 
 # Obtaining Cards
 - Obtaining cards has to be a deliberate but satisfying choice. 
-- Cards should NEVER reduce options unless as a tradeoff for something amazing.
+- Cards should NEVER reduce options unless as a tradeoff for something good.
 - Cards can interact with other PC/NPCs but not their cards.
 
 # Card Mechanics

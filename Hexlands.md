@@ -2,7 +2,8 @@ The Hexlands have some unique systems that are added onto the base game.
 
 
 ##### Experiences
-Abilities/Spells are known as "Experiences". They are encoded knowledge and skills directly, and can be sold, traded and stolen.
+Abilities/Spells are known as "Experiences". They are encoded knowledge and skills directly, and can be sold, traded and stolen. They represent finite, repeatable things, such as repeating a speech, doing a flip, or casting a spell.
+
 
 When you succeed against a skill/ability check, (Acrobatics, Strength, Herbology, etc.), you have a chance of encoding it into your personal experience (Self). To gain a dice of knowledge in a skill, you must:
 1. Succeed in using the skill (Roll against the difficulty score AFTER modifiers).
@@ -14,3 +15,7 @@ When you have familiarity in a skill, you can use it for prerequisites.
 
 > Example 1 (Deprecated)
 > If you have 1d8 familiarity with Mechanic (1d12 Complexity Dice) you can utilize the **Diagnose Machine** ability (1d8 prerequisite).
+# Obtaining Experiences
+- Obtaining experiences has to be a deliberate but satisfying choice. 
+- Cards should NEVER reduce options unless as a tradeoff for something good.
+- Cards can interact with other PC/NPCs but not their cards.

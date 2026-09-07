@@ -14,11 +14,10 @@ Abilities can be two-sided, having a Major/Minor distinction. Major versions are
 "Active" - Abilities that activate based on you choosing them and paying a resource cost. This can include "always on" abilities that can be switched on/off.
 
 Attack
-Spell
 Reaction
 Movement
 Status
-Communication
+Tactic
 
 
 ![[ActiveCardBase]]
