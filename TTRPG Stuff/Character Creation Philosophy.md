@@ -2,6 +2,7 @@ Creating a character is about creating a story. You choose a gameplay style, cra
 
 The Mighty Nine
 
+https://anydice.com/program/439dc
 #### Stats
 
 Stats in this TTRPG are prerequisites for what you can learn, do, carry, etc. They are represented by a dice the same as skills.
