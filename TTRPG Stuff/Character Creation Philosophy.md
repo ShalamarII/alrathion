@@ -15,7 +15,7 @@ Intelligence describes the ability to apply thinking with versatility.
 ##### Social
 Social describes the ability to communicate with exactness.
 ##### Vigor
-Vigor describes the ability to maintain homeostasis.
+Vigor describes the ability to maintain homeostasis. Your health is the 3 x Max Vigor Dice
 ##### Size Modifier
 Size Modifiers describe how large a given character is within a 5 foot hex.
 ###### Tiny
