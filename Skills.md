@@ -17,19 +17,27 @@ To use an skill, you roll 3d6 against the Complexity Dice for that Skill, aiming
 
 When performing a *Hail Mary* make the RD higher by the Hail Mary modifier (+xHM)
 
-Improving Basic Skills
+##### Improving Basic Skills
+Improving skills comes with time.
 
-| Skill Type | Time to Learn (Confidently)                |
-| ---------- | ------------------------------------------ |
-| d6         | 2 weeks                                    |
-| d8         | 8 weeks                                    |
-| d10        | 10 weeks                                   |
-| d12        | 6 months                                   |
-| d16        | 1 year                                     |
-| d18        | 2 years (full-time) or (4 years part-time) |
+| Skill Type | Time to Learn (Confidently)                         |
+| ---------- | --------------------------------------------------- |
+| d6         | 2 weeks                                             |
+| d8         | 8 weeks                                             |
+| d10        | 10 weeks                                            |
+| d12        | 6 months                                            |
+| d16        | 1 year                                              |
+| d18        | 2 years (with teacher) or (4 years without teacher) |
+
+###### Learning Rates
+Learning from others will
+
+| Type of Instruction | per Day multiplier |
+| ------------------- | ------------------ |
+| Confident           |                    |
 
 
-Terminology
+##### Terminology
 - RD - Roll Difficulty
 - +/-NRD - Apply the modifier, known as +/-N to the Roll Difficulty
 - CD - Complexity Die/Dice
