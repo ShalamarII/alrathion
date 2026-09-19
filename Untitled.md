@@ -1,1 +1,0 @@
-Monday - Review Search Console for Trend Publishing - ModernMetals & FFJournal.net
