@@ -9,7 +9,7 @@ Each family of the Idra have their own symbol used to distinguish themselves. Th
 The Idra have naturally adapted to hunting, becoming more muscular, with lean bodies. Hunting is not a sport, but an Idra's very lifeblood. The Idra are in tune with their intuition, receiving a 6th sense, often used for detecting danger.
 
 ### Strength as Law
-The Idran clans are each focused on maintaining one core tenet as "Strength"
+The Idran clans are each focused on maintaining one core tenet as "Strength".
 
 ### Family Rituals
 Each family of the Idra have their own symbol used to distinguish themselves. They rarely teach them to outsiders, and this is reserved for benefactors and the like. The families are called "clans".
