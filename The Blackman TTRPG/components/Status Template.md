@@ -6,11 +6,8 @@ cost: 1
 image:
 pgRef: PG Ref.
 variants:
-  - type: Major
-    description: ""
-  - type: Minor
-    dataRef:
-    description: ""
+  - description: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris in porttitor justo. Fusce nisi justo, aliquam sit amet massa vel, semper bibendum leo. Cras quis place. This is even more sample text.
 ---
 
 ```datacorejsx

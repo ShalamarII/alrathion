@@ -15,11 +15,15 @@
     },
     {
       "folder": "The Blackman TTRPG/Cards/Passive Cards",
-      "template": "The Blackman TTRPG/components/Ability Template.md"
+      "template": "The Blackman TTRPG/components/Passive Template.md"
     },
     {
       "folder": "The Blackman TTRPG/Cards/Field Cards",
       "template": "The Blackman TTRPG/components/Ability Template.md"
+    },
+    {
+      "folder": "The Blackman TTRPG/Cards/Status Cards",
+      "template": "The Blackman TTRPG/components/Status Template.md"
     }
   ],
   "file_templates": [],
