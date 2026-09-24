@@ -16,10 +16,10 @@ module_array {
 		num ID: ;
 		string module_name: ;
 		string module_title: ; 
-		num module_description: ; 
-		num module_ATTR_1 (number): ; 
-		num module_ATTR_2 (number): ;
-		num module_ATTR_3 (number): ;
+		number module_description: ; 
+		number module_ATTR_1 (number): ; 
+		number module_ATTR_2 (number): ;
+		number module_ATTR_3 (number): ;
 		bool module_isability (bool): ;
 	}
 }

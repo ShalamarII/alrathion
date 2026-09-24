@@ -57,3 +57,5 @@ I want to use design principles from cRPG's as I want the gameplay to feel tacti
 	- Positioning + Positioning Hazards
 	- Puzzles
 	- Situational Awareness (Scouting and Reacting)
+
+HG = Handler's Guide
