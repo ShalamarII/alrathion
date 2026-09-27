@@ -7,10 +7,9 @@ cost: 1
 image: 
 pgRef: PG Ref.
 variants:
-  - type: Major
+  - type: Enhanced
     description: ""
-  - type: Minor
-    dataRef: 
+  - type: Default
     description: ""
 ---
 

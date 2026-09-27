@@ -7,10 +7,9 @@ cost: 1
 image: Attachments/CoordinatedStrike.png
 pgRef: PG Ref.
 variants:
-  - type: Major
+  - type: Sheer
     description: If another ally with the Coordinated Strike ability does a minor attack, you may use a minor attack in conjunction.
-  - type: Minor
-    dataRef: DataRef
+  - type: Enhanced
     description: If another ally with the Coordinated Strike ability does a minor attack, you may use a minor attack in conjunction.
 ---
 

@@ -1,5 +1,12 @@
 Data should be extendable modules based with additions possible at any time. 
 
+Types of Modules:
+- Items
+- Currency
+- Loot Pool (Includes Items, Optional Abilities)
+- Abilities
+- Roll Modifiers
+
 Functionality:
 - Replace text/abilities
 - Add onto text/abilities

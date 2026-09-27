@@ -1,5 +1,7 @@
 My hex-crawl based TTRPG system is meant to be a lifetime journey. I want it to evolve with the person I am, the person I have been, and the person I want to be.
 
+GOAL: 500 Abilities, 500 Spells, 50+ statuses.
+
 # TTRPGs and Me.
 My hex-crawl TTRPG is meant to be a deep framework for creating places, people, and items. I do not want to create a rogue-like, I want to create a living, breathing world where you can jump through time, create, and shape it. I want the world created by it to be representable if you want to take it elsewhere, such as to a novel, game or other TTRPG system. Ultimately I want to create a storytelling framework with a RPG that can navigate it.
 

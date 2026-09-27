@@ -6,8 +6,10 @@ cost: 1
 image:
 pgRef: PG Ref.
 variants:
-  - description: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris in porttitor justo. Fusce nisi justo, aliquam sit amet massa vel, semper bibendum leo. Cras quis place. This is even more sample text.
+  - type: Enhanced
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris in porttitor justo. Fusce nisi justo, aliquam sit amet massa vel, semper bibendum leo. Cras quis place. This is even more sample text.
+  - type: Default
+    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris in porttitor justo. Fusce nisi justo, aliquam sit amet massa vel, semper bibendum leo. Cras quis place. This is even more sample text.
 ---
 
 ```datacorejsx

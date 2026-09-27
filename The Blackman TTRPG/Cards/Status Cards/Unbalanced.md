@@ -1,14 +1,14 @@
 ---
 tags: ability
-title: Card Name
-type: Passive
-range: Self
+title:
+type: Status
 cost: 1
-image: 
+image:
 pgRef: PG Ref.
 variants:
-  - type: Passive |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris in porttitor justo. Fusce nisi justo, aliquam sit amet massa vel, semper bibendum leo. Cras quis place. This is even more sample text.
+  - type: Sheer
+    dataRef:
+    description: You are off-balance, making it harder for you to cast spells & use abilities. Treat all RD as if it one level higher.
 ---
 
 ```datacorejsx

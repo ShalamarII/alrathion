@@ -8,10 +8,7 @@ image:
 pgRef: PG Ref.
 variants:
   - type: Sheer
-    dataRef:
-    description: "Move silently, obtaining the [Stealthed] status for 5 turns or until you attack."
-  - type: Enhanced
-    description: "Move silently, increasing your movement by 2 hexes and obtaining the [Stealthed] status for 5 turns or until you attack."
+    description: "You begin to craft a vial of poison. It has base charges equal to your proficiency with the [Potion-Crafting] skill. You need the materials to make it and the time it takes to create is X days equivalent to the loot modifier. Poison-Crafting applies to your currently Crafting."
 ---
 
 ```datacorejsx

@@ -7,11 +7,11 @@ cost: 1
 image:
 pgRef: PG Ref.
 variants:
-  - type: Major
-    description: "The user uses a [slashing] damage weapon to lacerate a target. The target rolls against the user's Weapon Skill Max. On a success, the user rolls the Weapon's Base Damage + their Weapon Skill Dice."
-  - type: Minor
+  - type: Sheer
     dataRef:
     description: "The user uses a [slashing] damage weapon to lacerate a target. The target rolls against the user's Weapon Skill Max. On a success, the user rolls the Weapon's Base Damage."
+  - type: Enhanced
+    description: "The user uses a [slashing] damage weapon to lacerate a target. The target rolls against the user's Weapon Skill Max. On a success, the user rolls the Weapon's Base Damage + their Weapon Skill Dice."
 ---
 
 ```datacorejsx

@@ -4,11 +4,11 @@ title: Card Name
 type: Passive
 range: Self
 cost: 1
-image: 
+image:
 pgRef: PG Ref.
 variants:
-  - type: Passive |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris in porttitor justo. Fusce nisi justo, aliquam sit amet massa vel, semper bibendum leo. Cras quis place. This is even more sample text.
+  - Default: |
+      Any Grappled, Blinded or Surprised enemy turns to dust when killed by a blade dipped in this poison. The poison lasts until washed off. If ingested, this poison causes extreme sweatiness.
 ---
 
 ```datacorejsx
