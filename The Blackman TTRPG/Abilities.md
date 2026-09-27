@@ -19,5 +19,6 @@ Movement
 Status
 Tactic
 
+In combat, you have "Enhancement Points". These can be spent on any ability to enhance it. This does not inherently mean that the ability will behave in the same way.
 
-![[ActiveCardBase]]
+Additionally, there are enhanced versions of Statuses

@@ -8,10 +8,10 @@ image:
 pgRef: PG Ref.
 variants:
   - type: Major
-    description: "You wrap your arm around a target's neck, ensuring they cannot breathe normally. If you surprise your target, hold them in the [Enhanced Grappled] condition (HG pg. ). If not, roll an opposed DEX|STR check to hold them in the [Enhanced Grappled condition]. After two turns, they fall [unconsious]."
+    description: "You wrap your arm around a target's neck, ensuring they cannot breathe normally. If you surprise your target, hold them in the [E. Grappled] condition (HG pg. ). If not, roll an opposed DEX|STR check to hold them in the [E. Grappled] condition. After two turns, they fall [unconsious]."
   - type: Minor
     dataRef:
-    description: "You wrap your arm around a target's neck, ensuring they cannot breate normally. If you surprise your target, hold them in the [Grappled] condition (HG pg. ). If not, roll an opposed DEX|STR check to hold them in the [grappled condition]. After two turns, they fall [unconsious]."
+    description: "You wrap your arm around a target's neck, ensuring they cannot breate normally. If you surprise your target, hold them in the [Grappled] condition (HG pg. ). If not, roll an opposed DEX|STR check to hold them in the [Grappled] condition. After two turns, they fall [unconsious]."
 ---
 
 ```datacorejsx
