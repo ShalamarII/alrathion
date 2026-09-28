@@ -1,14 +1,12 @@
 ---
 tags: ability
-title: Coordinated Strike
-affects: Self
-range: Self
-cost: 1
-image: Attachments/CoordinatedStrike.png
+title: Invigorated
+type: Status
+image:
 pgRef: PG Ref.
 variants:
   - type: Default
-    description: If another ally with the Coordinated Strike ability does a minor attack, you may use a minor attack in conjunction.
+    description: You are Invigorated, gaining one roll level to VIG.
 ---
 
 ```datacorejsx

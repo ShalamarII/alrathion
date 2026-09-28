@@ -1,6 +1,6 @@
 ---
 tags: ability
-title: Card Name
+title: Malair Poison
 type: Passive
 range: Self
 cost: 1

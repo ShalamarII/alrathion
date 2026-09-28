@@ -24,6 +24,10 @@
     {
       "folder": "The Blackman TTRPG/Cards/Status Cards",
       "template": "The Blackman TTRPG/components/Status Template.md"
+    },
+    {
+      "folder": "The Blackman TTRPG/Items",
+      "template": "The Blackman TTRPG/components/Item Template.md"
     }
   ],
   "file_templates": [],

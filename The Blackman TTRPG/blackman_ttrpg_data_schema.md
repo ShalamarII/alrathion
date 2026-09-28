@@ -6,6 +6,7 @@ Types of Modules:
 - Loot Pool (Includes Items, Optional Abilities)
 - Abilities
 - Roll Modifiers
+- Value Modifiers
 
 Functionality:
 - Replace text/abilities
