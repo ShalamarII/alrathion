@@ -22,7 +22,7 @@ console.log("----------------------- THIS IS THE FILE CREATED ------------------
  fTitle = fTitle.replaceAll(/u002F/g, "/")
  fTitle = fTitle.replaceAll(/u005C/g, "\\")
  fTitle = fTitle.replaceAll(/~/g, "")
- console.log("this is fTitle:", fTitle)
+ console.log("this is fidentifier:", fTitle)
 
  // Get the main object
  let sObject = await jsonFile.find(x => x["Task name"] === fTitle)

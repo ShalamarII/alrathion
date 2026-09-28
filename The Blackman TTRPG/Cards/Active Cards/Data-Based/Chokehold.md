@@ -1,6 +1,6 @@
 ---
 tags: ability
-title: Chokehold
+identifier: Chokehold
 affects: Self
 range: Self
 cost: 1

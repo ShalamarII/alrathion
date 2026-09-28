@@ -1,6 +1,6 @@
 ---
 tags: ability
-title: 
+identifier: 
 affects: Self
 range: Self
 cost: 1
@@ -12,7 +12,7 @@ variants:
   - type: Default
     description: ""
 ---
-
+identifier:identifier:
 ```datacorejsx
 const { AbilityCards, fromPage } = await dc.require("The Blackman TTRPG/components/AbilityCard.jsx");
 

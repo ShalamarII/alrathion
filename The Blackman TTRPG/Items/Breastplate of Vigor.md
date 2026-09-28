@@ -1,5 +1,5 @@
 ---
-title: Breastplate of Vigor
+identifier: Breastplate of Vigor
 cost:
 rarity:
 description: A dimly shining breastplate. When equipped, the user gains the [Invigorated] status.

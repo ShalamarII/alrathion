@@ -1,6 +1,6 @@
 ---
 tags: ability
-title: Coordinated Strike
+identifier: Coordinated Strike
 affects: Self
 range: Self
 cost: 1
@@ -10,7 +10,7 @@ variants:
   - type: Default
     description: If another ally with the Coordinated Strike ability does a minor attack, you may use a minor attack in conjunction.
 ---
-
+identifier:identifier:
 ```datacorejsx
 const { AbilityCards, fromPage } = await dc.require("The Blackman TTRPG/components/AbilityCard.jsx");
 

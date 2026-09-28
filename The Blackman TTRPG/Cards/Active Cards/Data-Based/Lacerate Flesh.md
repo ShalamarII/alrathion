@@ -1,6 +1,6 @@
 ---
 tags: ability
-title: Lacerate Flesh
+identifier: Lacerate Flesh
 affects: 1 Target
 range: 1 hex
 cost: 1
@@ -13,7 +13,7 @@ variants:
   - type: Enhanced
     description: "The user uses a [slashing] damage weapon to lacerate a target. The target rolls against the user's Weapon Skill Max. On a success, the user rolls the Weapon's Base Damage + their Weapon Skill Dice."
 ---
-
+identifier:identifier:
 ```datacorejsx
 const { AbilityCards, fromPage } = await dc.require("The Blackman TTRPG/components/AbilityCard.jsx");
 

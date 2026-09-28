@@ -1,6 +1,6 @@
 ---
 tags: ability
-title: Card Name
+identifier: Card Name
 type: Passive
 range: Self
 cost: 1
@@ -10,7 +10,7 @@ variants:
   - type: Passive |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris in porttitor justo. Fusce nisi justo, aliquam sit amet massa vel, semper bibendum leo. Cras quis place. This is even more sample text.
 ---
-
+identifier:identifier:
 ```datacorejsx
 const { AbilityCards, fromPage } = await dc.require("The Blackman TTRPG/components/AbilityCard.jsx");
 

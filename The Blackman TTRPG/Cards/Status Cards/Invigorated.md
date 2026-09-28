@@ -1,6 +1,6 @@
 ---
 tags: ability
-title: Invigorated
+identifier: Invigorated
 type: Status
 image:
 pgRef: PG Ref.
@@ -8,7 +8,7 @@ variants:
   - type: Default
     description: You are Invigorated, gaining one roll level to VIG.
 ---
-
+identifier:identifier:
 ```datacorejsx
 const { AbilityCards, fromPage } = await dc.require("The Blackman TTRPG/components/AbilityCard.jsx");
 

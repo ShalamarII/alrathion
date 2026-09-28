@@ -23,7 +23,7 @@ module_array {
 	 {
 		num ID: ;
 		string module_name: ;
-		string module_title: ; 
+		string module_identifier: ; 
 		number module_description: ; 
 		number module_ATTR_1 (number): ; 
 		number module_ATTR_2 (number): ;

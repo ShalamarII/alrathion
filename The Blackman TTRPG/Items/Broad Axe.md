@@ -5,4 +5,3 @@ rarity:
 description:
 type: Item
 ---
-identifier:identifier:

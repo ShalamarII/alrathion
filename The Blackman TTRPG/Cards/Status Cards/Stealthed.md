@@ -1,6 +1,6 @@
 ---
 tags: ability
-title: Stealthed
+identifier: Stealthed
 type: Status
 cost: 1
 image:
@@ -11,7 +11,7 @@ variants:
   - type: Enhanced
     description: All stealth-related rolls are 2 RD easier for you. All PER related checks for someone searching, tracking etc. are 2 RD harder for an enemy.
 ---
-
+identifier:identifier:
 ```datacorejsx
 const { AbilityCards, fromPage } = await dc.require("The Blackman TTRPG/components/AbilityCard.jsx");
 

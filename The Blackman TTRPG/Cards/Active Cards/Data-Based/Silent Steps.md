@@ -1,6 +1,6 @@
 ---
 tags: ability
-title:
+identifier:
 affects: Self
 range: Self
 cost: 1
@@ -13,7 +13,7 @@ variants:
   - type: Enhanced
     description: "Move silently, increasing your movement by 2 hexes and obtaining the [Stealthed] status for 5 turns or until you attack."
 ---
-
+identifier:identifier:
 ```datacorejsx
 const { AbilityCards, fromPage } = await dc.require("The Blackman TTRPG/components/AbilityCard.jsx");
 

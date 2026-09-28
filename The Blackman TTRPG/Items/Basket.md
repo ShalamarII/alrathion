@@ -1,5 +1,5 @@
 ---
-title: Basket
+identifier: Basket
 cost: 5
 rarity: common
 description: A twine woven basket.

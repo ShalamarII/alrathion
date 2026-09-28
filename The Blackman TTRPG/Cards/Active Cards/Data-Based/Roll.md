@@ -1,6 +1,6 @@
 ---
 tags: ability
-title: Roll
+identifier: Roll
 affects: Self
 range: Self
 cost: 1
@@ -13,7 +13,7 @@ variants:
   - type: Enhanced
     description: You make a roll to try and dodge the next attack or ability coming your way. You roll defense as normal, but can move up to 1 hex away on a successful dodge.
 ---
-
+identifier:identifier:identifier:identifier:
 ```datacorejsx
 const { AbilityCards, fromPage } = await dc.require("The Blackman TTRPG/components/AbilityCard.jsx");
 
