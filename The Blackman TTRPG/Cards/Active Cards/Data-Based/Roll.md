@@ -1,6 +1,6 @@
 ---
 tags: ability
-identifier: Roll
+identifier: roll
 affects: Self
 range: Self
 cost: 1

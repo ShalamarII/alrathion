@@ -1,17 +1,21 @@
+https://anydice.com/program/43d6f 3dX
+https://anydice.com/program/43d70 3dX + 1dX
+
+
 Skills are the classification of your knowledge. It is used to decide what you are good at, what abilities/spells you can use and what you know.
 
 The GM should feel free to create skills at their own whim.
 
-A Hail Mary is an extraordinary attempt to do something out of your normal reach. 
+A Hail Mary is an extraordinary attempt to do something out of your normal reach.
 
 | Skill Level         | Skill Dice | Hail Mary Modifier |
 | ------------------- | ---------- | ------------------ |
-| Clear               | 1d6        | +2                 |
-| Subtle              | 1d8        | +3                 |
-| Opaque              | 1d10       | +4                 |
-| Dense               | 1d12       | +6                 |
-| Granular (d12 + d4) | 1d16       | +8                 |
-| Surgical (d12 + d6) | 1d18       | +10                |
+| Clear               | 1d6        | -2                 |
+| Subtle              | 1d8        | -3                 |
+| Opaque              | 1d10       | -1 RL              |
+| Dense               | 1d12       | -2 RL              |
+| Granular (d12 + d4) | 1d16       | -3 RL              |
+| Surgical (d12 + d6) | 1d18       | -4 RL              |
 
 To use an skill, you roll 3d6 against the Complexity Dice for that Skill, aiming to roll at or above than it. This is known as the Roll Difficulty (RD), it is analogous to a Difficulty Class (DC) in other systems.
 

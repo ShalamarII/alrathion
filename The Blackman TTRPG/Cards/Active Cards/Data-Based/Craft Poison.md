@@ -1,6 +1,6 @@
 ---
 tags: ability
-identifier:
+identifier: craft_poison
 affects: Self
 range: Self
 cost: 1

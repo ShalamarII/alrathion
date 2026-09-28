@@ -1,7 +1,7 @@
 ---
 tags: ability
-identifier: Chokehold
-affects: Self
+identifier: chokehold
+affects: 1 Target
 range: Self
 cost: 1
 image:

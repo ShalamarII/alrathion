@@ -1,19 +1,19 @@
 ---
 tags: ability
-identifier: Lacerate Flesh
+identifier: lacerate_flesh
 affects: 1 Target
 range: 1 hex
 cost: 1
 image:
 pgRef: PG Ref.
 variants:
-  - type: Sheer
+  - type: Default
     dataRef:
-    description: "The user uses a [slashing] damage weapon to lacerate a target. The target rolls against the user's Weapon Skill Max. On a success, the user rolls the Weapon's Base Damage."
+    description: "The user uses a [slashing] damage weapon to lacerate a target. The target rolls against the user's Weapon Skill Max. On a success, the user rolls the Weapon's Base Damage and applies [Bleed]."
   - type: Enhanced
-    description: "The user uses a [slashing] damage weapon to lacerate a target. The target rolls against the user's Weapon Skill Max. On a success, the user rolls the Weapon's Base Damage + their Weapon Skill Dice."
+    description: "The user uses a [slashing] damage weapon to lacerate a target. The target rolls against the user's Weapon Skill Max. On a success, the user rolls the Weapon's Base Damage + their Weapon Skill Dice and applies [Bleeding]."
 ---
-identifier:identifier:
+
 ```datacorejsx
 const { AbilityCards, fromPage } = await dc.require("The Blackman TTRPG/components/AbilityCard.jsx");
 

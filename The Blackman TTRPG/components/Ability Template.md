@@ -7,12 +7,12 @@ cost: 1
 image: 
 pgRef: PG Ref.
 variants:
-  - type: Enhanced
-    description: ""
   - type: Default
     description: ""
+  - type: Enhanced
+    description: ""
 ---
-identifier:identifier:
+
 ```datacorejsx
 const { AbilityCards, fromPage } = await dc.require("The Blackman TTRPG/components/AbilityCard.jsx");
 

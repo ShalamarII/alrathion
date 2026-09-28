@@ -1,7 +1,7 @@
 ---
 tags: ability
-identifier: Rallying Cry
-affects: Allies
+identifier: rallying_cry
+affects: Self
 range: 8 hexes
 cost: 1
 image:
@@ -13,7 +13,7 @@ variants:
   - type: Enhanced
     description: The user makes a booming excalamation, raising the spirits of any associated with it. Any allies in range will take their turn first; they also receive +1 hex of movement.
 ---
-identifier:identifier:
+
 ```datacorejsx
 const { AbilityCards, fromPage } = await dc.require("The Blackman TTRPG/components/AbilityCard.jsx");
 

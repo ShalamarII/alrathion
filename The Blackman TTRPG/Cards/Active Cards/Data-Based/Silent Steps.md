@@ -1,17 +1,17 @@
 ---
 tags: ability
-identifier:
+identifier: silent_steps
 affects: Self
 range: Self
 cost: 1
 image:
 pgRef: PG Ref.
 variants:
-  - type: Sheer
+  - type: Default
     dataRef:
     description: "Move silently, obtaining the [Stealthed] status for 5 turns or until you attack."
   - type: Enhanced
-    description: "Move silently, increasing your movement by 2 hexes and obtaining the [Stealthed] status for 5 turns or until you attack."
+    description: "Move nearly imperceptibly, increasing your movement by 1 hex and obtaining the [E. Stealthed] status for 5 turns or until you attack."
 ---
 identifier:identifier:
 ```datacorejsx
