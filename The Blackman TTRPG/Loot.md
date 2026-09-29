@@ -12,5 +12,19 @@ Loot is represented by a dice. When rolling on a loot table, you add each grade 
 | Cosmetic   | Not included in regular rolls, roll alongside. |
 
 
-Loot Value (LV) = time cost of materials(M) + time cost of labor(L) * skill used (S)
-Loot Sell Value = LV * (demand * supply)
+Loot Value (LV) = time cost of materials (M) + time cost of labor (L) * skill used (S)
+Loot Sell Value (LSV) = LV * (demand d* supply s)
+
+
+
+| Demand List | Demand Modifier |
+| ----------- | --------------- |
+|             |                 |
+
+| Supply List | Supply Modifier |
+| ----------- | --------------- |
+|             |                 |
+
+
+
+Materials -> Process (Labor) -> Demand* Supply = Loot Value
