@@ -2,24 +2,23 @@ https://anydice.com/program/43d6f 3dX
 https://anydice.com/program/43d70 3dX + 1dX
 
 
-Skills are the classification of your knowledge. It is used to decide what you are good at, what abilities/spells you can use and what you know.
+Skills are the classification of your knowledge. It is used to decide what you are good at, what abilities/spells you can use and what you know. The GM should feel free to create skills at their own whim.
 
-The GM should feel free to create skills at their own whim.
+To use an skill, you roll 3d6 against the Complexity Dice for that Skill, aiming to roll at or above than it. This is known as the Roll Difficulty (RD), it is analogous to a Difficulty Class (DC) in other systems.
+
+When performing a *Hail Mary* make the RD higher by the Hail Mary modifier (-HM)
 
 A Hail Mary is an extraordinary attempt to do something out of your normal reach.
 
 | Skill Level         | Skill Dice | Hail Mary Modifier |
 | ------------------- | ---------- | ------------------ |
-| Clear               | 1d6        | -2                 |
-| Subtle              | 1d8        | -3                 |
-| Opaque              | 1d10       | -1 RL              |
-| Dense               | 1d12       | -2 RL              |
-| Granular (d12 + d4) | 1d16       | -3 RL              |
-| Surgical (d12 + d6) | 1d18       | -4 RL              |
+| Clear               | 1d8        | 0                  |
+| Subtle              | 1d10       | 2                  |
+| Opaque              | 1d12       | 1 RL               |
+| Dense (d10 + d4)    | 1d14       | 2 RL               |
+| Granular (d12 + d4) | 1d16       | 3 RL               |
+| Surgical (d12 + d6) | 1d18       | 4 RL               |
 
-To use an skill, you roll 3d6 against the Complexity Dice for that Skill, aiming to roll at or above than it. This is known as the Roll Difficulty (RD), it is analogous to a Difficulty Class (DC) in other systems.
-
-When performing a *Hail Mary* make the RD higher by the Hail Mary modifier (+xHM)
 
 ##### Improving Basic Skills
 Improving skills comes with time.
@@ -34,11 +33,12 @@ Improving skills comes with time.
 | d18        | 2 years (with teacher) or (4 years without teacher) |
 
 ###### Learning Rates
-Learning from others will
+Learning from others will allow you to learn faster.
 
 | Type of Instruction | per Day multiplier |
 | ------------------- | ------------------ |
-| Confident           |                    |
+| Confident           | 1.2                |
+| Self-Taught         | .5                 |
 
 
 ##### Terminology

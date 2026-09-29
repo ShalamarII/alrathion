@@ -10,3 +10,7 @@ Loot is represented by a dice. When rolling on a loot table, you add each grade 
 | Legendary  | 1d16                                           |
 | Mythic     | 1d18                                           |
 | Cosmetic   | Not included in regular rolls, roll alongside. |
+
+
+Loot Value (LV) = time cost of materials(M) + time cost of labor(L) * skill used (S)
+Loot Sell Value = LV * (demand * supply)

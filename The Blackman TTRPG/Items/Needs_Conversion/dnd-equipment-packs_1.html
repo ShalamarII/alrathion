@@ -1,0 +1,310 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>D&amp;D Equipment Packs</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #2b1d14;
+    --muted: #6b5443;
+    --accent: #7a1f1f;
+    --paper: #fbf6ec;
+    --card: #fffdf8;
+    --line: #d9c9ac;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "Crimson Text", Georgia, serif;
+    font-size: 16px;
+    line-height: 1.4;
+  }
+  .page { max-width: 960px; margin: 0 auto; padding: 32px 16px 48px; }
+  header { text-align: center; border-bottom: 3px double var(--accent); padding-bottom: 16px; margin-bottom: 24px; }
+  h1 { font-family: "Cinzel", serif; color: var(--accent); font-size: 2.2rem; margin: 0 0 4px; letter-spacing: 1px; }
+  .sub { color: var(--muted); font-style: italic; margin: 0; }
+  h2 {
+    font-family: "Cinzel", serif; color: var(--accent); font-size: 1.4rem;
+    border-bottom: 1px solid var(--accent); padding-bottom: 4px; margin: 28px 0 6px;
+  }
+  .section-note { color: var(--muted); font-style: italic; margin: 0 0 14px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; }
+  .pack {
+    background: var(--card); border: 1px solid var(--line); border-top: 4px solid var(--accent);
+    border-radius: 4px; padding: 12px 14px; break-inside: avoid; page-break-inside: avoid;
+  }
+  .pack-head { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; border-bottom: 1px solid var(--line); padding-bottom: 4px; margin-bottom: 6px; }
+  .pack h3 { font-family: "Cinzel", serif; font-size: 1.05rem; margin: 0; }
+  .cost { font-weight: 600; color: var(--accent); white-space: nowrap; }
+  .pack ul { margin: 0; padding-left: 18px; }
+  .pack li { margin: 1px 0; }
+  .qty { font-weight: 600; }
+  .src { font-size: .85rem; color: var(--muted); font-style: italic; margin-top: 6px; }
+  footer { margin-top: 32px; font-size: .85rem; color: var(--muted); text-align: center; border-top: 1px solid var(--line); padding-top: 10px; }
+  .print-btn {
+    display: inline-block; margin-top: 12px; padding: 6px 16px; font-family: "Cinzel", serif;
+    background: var(--accent); color: #fff; border: 0; border-radius: 3px; cursor: pointer; font-size: .9rem;
+  }
+  @media print {
+    @page { size: letter; margin: 0.5in; }
+    body { background: #fff; font-size: 11.5pt; }
+    .page { padding: 0; max-width: none; }
+    .print-btn { display: none; }
+    .grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+    .pack { background: #fff; }
+    .edition-2014 { break-before: page; page-break-before: always; }
+    * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  }
+</style>
+</head>
+<body>
+<div class="page">
+  <header>
+    <h1>Equipment Packs</h1>
+    <p class="sub">Dungeons &amp; Dragons 5th Edition — a quick-reference sheet</p>
+    <button class="print-btn" onclick="window.print()">Print / Save as PDF</button>
+  </header>
+
+  <!-- ===================== 2024 ===================== -->
+  <section>
+    <h2>2024 Player's Handbook (5.5e / “One D&amp;D”)</h2>
+    <p class="section-note">The revised rules. Rope is 50 feet; each pack's contents are sold together at the listed price.</p>
+    <div class="grid">
+      <div class="pack">
+        <div class="pack-head"><h3>Burglar's Pack</h3><span class="cost">16 GP</span></div>
+        <ul>
+          <li>Backpack</li>
+          <li>Ball Bearings</li>
+          <li>Bell</li>
+          <li><span class="qty">10</span> Candles</li>
+          <li>Crowbar</li>
+          <li>Hooded Lantern</li>
+          <li><span class="qty">7</span> flasks of Oil</li>
+          <li><span class="qty">5</span> days of Rations</li>
+          <li>Rope</li>
+          <li>Tinderbox</li>
+          <li>Waterskin</li>
+        </ul>
+      </div>
+      <div class="pack">
+        <div class="pack-head"><h3>Diplomat's Pack</h3><span class="cost">39 GP</span></div>
+        <ul>
+          <li>Chest</li>
+          <li>Fine Clothes</li>
+          <li>Ink</li>
+          <li><span class="qty">5</span> Ink Pens</li>
+          <li>Lamp</li>
+          <li><span class="qty">2</span> Map or Scroll Cases</li>
+          <li><span class="qty">4</span> flasks of Oil</li>
+          <li><span class="qty">5</span> sheets of Paper</li>
+          <li><span class="qty">5</span> sheets of Parchment</li>
+          <li>Perfume</li>
+          <li>Tinderbox</li>
+        </ul>
+      </div>
+      <div class="pack">
+        <div class="pack-head"><h3>Dungeoneer's Pack</h3><span class="cost">12 GP</span></div>
+        <ul>
+          <li>Backpack</li>
+          <li>Caltrops</li>
+          <li>Crowbar</li>
+          <li><span class="qty">2</span> flasks of Oil</li>
+          <li><span class="qty">10</span> days of Rations</li>
+          <li>Rope</li>
+          <li>Tinderbox</li>
+          <li><span class="qty">10</span> Torches</li>
+          <li>Waterskin</li>
+        </ul>
+      </div>
+      <div class="pack">
+        <div class="pack-head"><h3>Entertainer's Pack</h3><span class="cost">40 GP</span></div>
+        <ul>
+          <li>Backpack</li>
+          <li>Bedroll</li>
+          <li>Bell</li>
+          <li>Bullseye Lantern</li>
+          <li><span class="qty">3</span> Costumes</li>
+          <li>Mirror</li>
+          <li><span class="qty">8</span> flasks of Oil</li>
+          <li><span class="qty">9</span> days of Rations</li>
+          <li>Tinderbox</li>
+          <li>Waterskin</li>
+        </ul>
+      </div>
+      <div class="pack">
+        <div class="pack-head"><h3>Explorer's Pack</h3><span class="cost">10 GP</span></div>
+        <ul>
+          <li>Backpack</li>
+          <li>Bedroll</li>
+          <li><span class="qty">2</span> flasks of Oil</li>
+          <li><span class="qty">10</span> days of Rations</li>
+          <li>Rope</li>
+          <li>Tinderbox</li>
+          <li><span class="qty">10</span> Torches</li>
+          <li>Waterskin</li>
+        </ul>
+      </div>
+      <div class="pack">
+        <div class="pack-head"><h3>Priest's Pack</h3><span class="cost">33 GP</span></div>
+        <ul>
+          <li>Backpack</li>
+          <li>Blanket</li>
+          <li>Holy Water</li>
+          <li>Lamp</li>
+          <li><span class="qty">7</span> days of Rations</li>
+          <li>Robe</li>
+          <li>Tinderbox</li>
+        </ul>
+      </div>
+      <div class="pack">
+        <div class="pack-head"><h3>Scholar's Pack</h3><span class="cost">40 GP</span></div>
+        <ul>
+          <li>Backpack</li>
+          <li>Book</li>
+          <li>Ink</li>
+          <li>Ink Pen</li>
+          <li>Lamp</li>
+          <li><span class="qty">10</span> flasks of Oil</li>
+          <li><span class="qty">10</span> sheets of Parchment</li>
+          <li>Tinderbox</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== 2014 ===================== -->
+  <section class="edition-2014">
+    <h2>2014 Player's Handbook (Original 5e)</h2>
+    <p class="section-note">The original fifth-edition packs, still used at many tables.</p>
+    <div class="grid">
+      <div class="pack">
+        <div class="pack-head"><h3>Burglar's Pack</h3><span class="cost">16 gp</span></div>
+        <ul>
+          <li>Backpack</li>
+          <li>Bag of <span class="qty">1,000</span> ball bearings</li>
+          <li><span class="qty">10</span> feet of string</li>
+          <li>Bell</li>
+          <li><span class="qty">5</span> candles</li>
+          <li>Crowbar</li>
+          <li>Hammer</li>
+          <li><span class="qty">10</span> pitons</li>
+          <li>Hooded lantern</li>
+          <li><span class="qty">2</span> flasks of oil</li>
+          <li><span class="qty">5</span> days of rations</li>
+          <li>Tinderbox</li>
+          <li>Waterskin</li>
+          <li><span class="qty">50</span> feet of hempen rope</li>
+        </ul>
+      </div>
+      <div class="pack">
+        <div class="pack-head"><h3>Diplomat's Pack</h3><span class="cost">39 gp</span></div>
+        <ul>
+          <li>Chest</li>
+          <li><span class="qty">2</span> cases for maps and scrolls</li>
+          <li>Set of fine clothes</li>
+          <li>Bottle of ink</li>
+          <li>Ink pen</li>
+          <li>Lamp</li>
+          <li><span class="qty">2</span> flasks of oil</li>
+          <li><span class="qty">5</span> sheets of paper</li>
+          <li>Vial of perfume</li>
+          <li>Sealing wax</li>
+          <li>Soap</li>
+        </ul>
+      </div>
+      <div class="pack">
+        <div class="pack-head"><h3>Dungeoneer's Pack</h3><span class="cost">12 gp</span></div>
+        <ul>
+          <li>Backpack</li>
+          <li>Crowbar</li>
+          <li>Hammer</li>
+          <li><span class="qty">10</span> pitons</li>
+          <li><span class="qty">10</span> torches</li>
+          <li>Tinderbox</li>
+          <li><span class="qty">10</span> days of rations</li>
+          <li>Waterskin</li>
+          <li><span class="qty">50</span> feet of hempen rope</li>
+        </ul>
+      </div>
+      <div class="pack">
+        <div class="pack-head"><h3>Entertainer's Pack</h3><span class="cost">40 gp</span></div>
+        <ul>
+          <li>Backpack</li>
+          <li>Bedroll</li>
+          <li><span class="qty">2</span> costumes</li>
+          <li><span class="qty">5</span> candles</li>
+          <li><span class="qty">5</span> days of rations</li>
+          <li>Waterskin</li>
+          <li>Disguise kit</li>
+        </ul>
+      </div>
+      <div class="pack">
+        <div class="pack-head"><h3>Explorer's Pack</h3><span class="cost">10 gp</span></div>
+        <ul>
+          <li>Backpack</li>
+          <li>Bedroll</li>
+          <li>Mess kit</li>
+          <li>Tinderbox</li>
+          <li><span class="qty">10</span> torches</li>
+          <li><span class="qty">10</span> days of rations</li>
+          <li>Waterskin</li>
+          <li><span class="qty">50</span> feet of hempen rope</li>
+        </ul>
+      </div>
+      <div class="pack">
+        <div class="pack-head"><h3>Priest's Pack</h3><span class="cost">19 gp</span></div>
+        <ul>
+          <li>Backpack</li>
+          <li>Blanket</li>
+          <li><span class="qty">10</span> candles</li>
+          <li>Tinderbox</li>
+          <li>Alms box</li>
+          <li><span class="qty">2</span> blocks of incense</li>
+          <li>Censer</li>
+          <li>Vestments</li>
+          <li><span class="qty">2</span> days of rations</li>
+          <li>Waterskin</li>
+        </ul>
+      </div>
+      <div class="pack">
+        <div class="pack-head"><h3>Scholar's Pack</h3><span class="cost">40 gp</span></div>
+        <ul>
+          <li>Backpack</li>
+          <li>Book of lore</li>
+          <li>Bottle of ink</li>
+          <li>Ink pen</li>
+          <li><span class="qty">10</span> sheets of parchment</li>
+          <li>Little bag of sand</li>
+          <li>Small knife</li>
+        </ul>
+      </div>
+      <div class="pack">
+        <div class="pack-head"><h3>Monster Hunter's Pack</h3><span class="cost">33 gp</span></div>
+        <ul>
+          <li>Chest</li>
+          <li>Crowbar</li>
+          <li>Hammer</li>
+          <li><span class="qty">3</span> wooden stakes</li>
+          <li>Holy symbol</li>
+          <li>Flask of holy water</li>
+          <li>Set of manacles</li>
+          <li>Steel mirror</li>
+          <li>Flask of oil</li>
+          <li>Tinderbox</li>
+          <li><span class="qty">3</span> torches</li>
+        </ul>
+        <div class="src">Supplemental — from the <em>Curse of Strahd</em> character options, not the Player's Handbook.</div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    Dungeons &amp; Dragons is a trademark of Wizards of the Coast. This sheet is an unofficial player reference.
+  </footer>
+</div>
+</body>
+</html>
