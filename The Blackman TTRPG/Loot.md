@@ -11,19 +11,44 @@ Loot is represented by a dice. When rolling on a loot table, you add each grade 
 | Mythic     | 1d18                                           |
 | Cosmetic   | Not included in regular rolls, roll alongside. |
 
+Labor and Time cost are calculated based off the level of the average worker in that area. These can be changed if you want but they can be seen below.
+
+|              | Mining | Agriculture |     |
+| ------------ | ------ | ----------- | --- |
+| Basic        |        |             |     |
+| Mediocre     |        |             |     |
+| Adept        |        |             |     |
+| Professional |        |             |     |
+| Master       |        |             |     |
 
 Loot Value (LV) = time cost of materials (M) + time cost of labor (L) * skill used (S)
 Loot Sell Value (LSV) = LV * (demand d* supply s)
 
 
 
+
+
+| Skill Used   | Skill Modifier |
+| ------------ | -------------- |
+| Amateur      | 1              |
+| Mediocre     | 1.1            |
+| Adept        | 1.25           |
+| Professional | 2.5            |
+| Master       | 5              |
+
 | Demand List | Demand Modifier |
 | ----------- | --------------- |
-|             |                 |
+| Low         | .5              |
+| Medium      | 1               |
+| High        | 1.5             |
+| Ubiquitious | 2               |
 
-| Supply List | Supply Modifier |
-| ----------- | --------------- |
-|             |                 |
+| Supply List           | Supply Modifier |
+| --------------------- | --------------- |
+| Low                   | 2               |
+| Medium                | 1               |
+| High                  | .5              |
+| Functionally Infinite | .3              |
 
 
 
