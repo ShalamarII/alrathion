@@ -12,7 +12,7 @@ variants:
     dataRef:
     description: The target of this status is restrained and cannot cast spells, use abilities or move. They may roll a contested DEX roll once a turn against the source. Regardless, they are unable to communicate with their allies, unless they have a status that otherwise allows them to.
 ---
-identifier:identifier:
+
 ```datacorejsx
 const { AbilityCards, fromPage } = await dc.require("The Blackman TTRPG/components/AbilityCard.jsx");
 

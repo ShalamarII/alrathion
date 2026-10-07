@@ -10,7 +10,7 @@ variants:
     dataRef:
     description: You are off-balance, making it harder for you to cast spells & use abilities. Treat all RD as if it one level higher.
 ---
-identifier:identifier:
+
 ```datacorejsx
 const { AbilityCards, fromPage } = await dc.require("The Blackman TTRPG/components/AbilityCard.jsx");
 

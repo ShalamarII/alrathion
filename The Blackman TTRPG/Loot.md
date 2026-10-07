@@ -13,13 +13,13 @@ Loot is represented by a dice. When rolling on a loot table, you add each grade 
 
 Labor and Time cost are calculated based off the level of the average worker in that area. These can be changed if you want but they can be seen below.
 
-|              | Mining | Agriculture |     |
-| ------------ | ------ | ----------- | --- |
-| Basic        |        |             |     |
-| Mediocre     |        |             |     |
-| Adept        |        |             |     |
-| Professional |        |             |     |
-| Master       |        |             |     |
+|              | Mining, Quarrying, Gas and Oil | Agriculture | Forestry, Fishing and Hunting | Power Generation | Construction/Manufacturing | Trade & Information | Transport and Warehousing | Housing & Finance | Science & Research | Administrative, Waste Management and Remediation Services | Education | Hospitality | Art & Entertainment | Public Administration |
+| ------------ | ------------------------------ | ----------- | ----------------------------- | ---------------- | -------------------------- | ------------------- | ------------------------- | ----------------- | ------------------ | --------------------------------------------------------- | --------- | ----------- | ------------------- | --------------------- |
+| Basic        |                                |             |                               |                  |                            |                     |                           |                   |                    |                                                           |           |             |                     |                       |
+| Mediocre     |                                |             |                               |                  |                            |                     |                           |                   |                    |                                                           |           |             |                     |                       |
+| Adept        |                                |             |                               |                  |                            |                     |                           |                   |                    |                                                           |           |             |                     |                       |
+| Professional |                                |             |                               |                  |                            |                     |                           |                   |                    |                                                           |           |             |                     |                       |
+| Master       |                                |             |                               |                  |                            |                     |                           |                   |                    |                                                           |           |             |                     |                       |
 
 Loot Value (LV) = time cost of materials (M) + time cost of labor (L) * skill used (S)
 Loot Sell Value (LSV) = LV * (demand d* supply s)
