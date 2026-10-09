@@ -1,0 +1,82 @@
+{
+	"name": "TBTTRPG",
+	"columns": 6,
+	"components": [
+		{
+			"id": "group",
+			"type": "group",
+			"label": "Heading Group",
+			"position": {
+				"col": 1,
+				"row": 1,
+				"width": 3,
+				"height": 7
+			},
+			"hideLabel": true
+		},
+		{
+			"id": "passport",
+			"type": "passport",
+			"label": "Character",
+			"position": {
+				"col": 1,
+				"row": 1,
+				"width": 6,
+				"height": 1
+			},
+			"fields": [
+				{
+					"key": "profession"
+				}
+			]
+		},
+		{
+			"id": "group_2",
+			"type": "group",
+			"label": "Group",
+			"position": {
+				"col": 1,
+				"row": 8,
+				"width": 2,
+				"height": 1
+			}
+		},
+		{
+			"id": "card_set",
+			"type": "card-set",
+			"label": "Card set",
+			"position": {
+				"col": 1,
+				"row": 9,
+				"width": 6,
+				"height": 1
+			},
+			"entries": [
+				{
+					"key": "STA",
+					"name": "Stamina"
+				},
+				{
+					"key": "STR",
+					"name": "Strength"
+				},
+				{
+					"key": "DEX",
+					"name": "Dexterity"
+				},
+				{
+					"key": "INT",
+					"name": "Social"
+				},
+				{
+					"key": "VIG",
+					"name": "Vigor"
+				},
+				{
+					"key": "New entry 5",
+					"name": "S"
+				}
+			]
+		}
+	]
+}

@@ -5,9 +5,11 @@
   "onboarding": {
     "enabled": true,
     "completed": {
-      "assets": true
+      "assets": true,
+      "lootSettings": true,
+      "tokenStatblocks": true
     },
-    "tokenImported": false
+    "tokenImported": true
   },
   "starterTokensAdded": false,
   "laserPointer": {
@@ -26,10 +28,10 @@
     "showToolbar": false,
     "showTokenNameplates": false,
     "showNotePreviews": false,
-    "showGrid": true,
     "showWidgets": true,
     "showInitiative": true,
     "showDiceRolls": false,
-    "showCommandPalette": false
+    "showCommandPalette": false,
+    "showGrid": true
   }
 }

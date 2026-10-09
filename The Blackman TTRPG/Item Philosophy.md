@@ -1,4 +1,4 @@
-My philosophy around items is that they need to be unique but similar in their power (at a baseline). The difference between the best iron axe and the worst iron axe is how quickly it breaks + how easily it can cut, but it can't suddenly penetrate steel because it's sharp.
+My philosophy around items is that they need to be unique but similar in their power (at a baseline). The difference between the best iron axe and the worst iron axe is how quickly it breaks + how easily it can cut, but it can't suddenly penetrate steel because it's sharp. An enchantment is another story.
 
 Durability systems should be based around the lowest possible rolls. This way, damage to a weapon can happen even if you do something skillfully. in that same vein, on a crit no damage would be taken by a weapon (at the GM's discretion). 
 

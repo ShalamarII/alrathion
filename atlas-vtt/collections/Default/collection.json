@@ -8,24 +8,66 @@
       "id": "class",
       "name": "Class",
       "group": "tokens"
+    },
+    "tokens:test-class": {
+      "id": "test-class",
+      "name": "Test-Class",
+      "group": "tokens"
+    },
+    "tokens:test-tale": {
+      "id": "test-tale",
+      "name": "Test-Tale",
+      "group": "tokens"
     }
   },
   "settings": {
-    "conditions": [],
+    "conditions": [
+      {
+        "id": "d52c1e57-2243-4934-8280-97672d771e01",
+        "name": "Grappled",
+        "color": "#377321"
+      },
+      {
+        "id": "64705da2-3902-45cc-900d-ab442dc430a5",
+        "name": "Invigorated",
+        "color": "#cd0a1d"
+      },
+      {
+        "id": "b01134bb-c283-4fa8-b15f-bd023eefdeef",
+        "name": "Stealthed",
+        "color": "#472a6a"
+      },
+      {
+        "id": "f2c90c76-5e0a-481c-b010-b2f84af5f0a9",
+        "name": "Unbalanced",
+        "color": "#fdf2fd"
+      }
+    ],
     "resources": [
       {
         "key": "hp",
         "name": "HP",
-        "field": "hp",
+        "field": "health_points",
         "direction": "drains",
         "color": "#22c55e",
         "defeatedWhenSpent": true,
-        "visibleToPlayers": false
+        "visibleToPlayers": false,
+        "slot": 0
+      },
+      {
+        "key": "enhancement-points",
+        "name": "Enhancement Points",
+        "field": "enhancement_points",
+        "direction": "static",
+        "color": "#06b6d4",
+        "visibleToPlayers": false,
+        "slot": 1,
+        "defeatedWhenSpent": false
       }
     ],
     "gridDefaults": {
-      "unitType": "feet",
-      "unitDistance": 5,
+      "unitType": "yards",
+      "unitDistance": 2,
       "measurementMode": "metric",
       "abstractRangeBands": [],
       "diagonalRule": "equidistant"
@@ -36,9 +78,13 @@
       "crit": "natural"
     },
     "customCreatureFilters": [],
-    "hiddenCreatureFilters": [],
-    "lootBases": []
+    "hiddenCreatureFilters": [
+      "level",
+      "cr"
+    ],
+    "lootBases": [],
+    "lootCurrency": "MunMun"
   },
   "createdAt": 0,
-  "modifiedAt": 1791519821550
+  "modifiedAt": 1791565107835
 }

@@ -5,7 +5,7 @@ The Mighty Nine
 https://anydice.com/program/439dc
 #### Stats
 
-Stats in this TTRPG are prerequisites for what you can learn, do, carry, etc. They are represented by a dice the same as skills.
+Stats in this TTRPG are prerequisites for what you can learn, do, carry, etc. They are represented by a dice the same as skills. You will never be rolling a stat die, they are purely prerequisites.
 
 ##### Strength
 Strength describes the raw ability to push, pull, carry, and exert force against or with things. 

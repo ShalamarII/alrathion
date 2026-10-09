@@ -1,0 +1,17 @@
+{
+  "atlasRecord": {
+    "format": 1,
+    "type": "token",
+    "showRing": true,
+    "name": "Assassin - Test",
+    "imagePath": "atlas-vtt/assets/Assassin_1791517099103_w8xncn_1791565234977_e4d1vn.webp",
+    "collection": "Default",
+    "tags": [
+      "Test-Tale"
+    ],
+    "thumbnailPath": "atlas-vtt/assets/thumbnails/Assassin_1791517099103_w8xncn_1791565234977_e4d1vn-bad6753a.webp",
+    "id": "token-1791565234982-lrsq1l",
+    "createdAt": 1791565234982,
+    "modifiedAt": 1791565269633
+  }
+}
