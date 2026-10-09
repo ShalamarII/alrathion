@@ -7,10 +7,10 @@ cost: 1
 image:
 pgRef: PG Ref.
 variants:
-  - Default: |
-      Any Grappled, Blinded or Surprised enemy turns to dust when killed by a blade dipped in this poison. The poison lasts until washed off. If ingested, this poison causes extreme sweatiness.
+  - type: Default
+    description: Any Grappled, Blinded or Surprised enemy turns to dust when killed by a blade dipped in this poison. The poison lasts until washed off. If ingested, this poison causes extreme sweatiness.
 ---
-identifier:identifier:
+
 ```datacorejsx
 const { AbilityCards, fromPage } = await dc.require("The Blackman TTRPG/components/AbilityCard.jsx");
 

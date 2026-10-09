@@ -1,0 +1,44 @@
+{
+  "format": 1,
+  "uid": "collection-2faaveaf735",
+  "version": 1,
+  "description": "Default collection",
+  "tags": {
+    "tokens:class": {
+      "id": "class",
+      "name": "Class",
+      "group": "tokens"
+    }
+  },
+  "settings": {
+    "conditions": [],
+    "resources": [
+      {
+        "key": "hp",
+        "name": "HP",
+        "field": "hp",
+        "direction": "drains",
+        "color": "#22c55e",
+        "defeatedWhenSpent": true,
+        "visibleToPlayers": false
+      }
+    ],
+    "gridDefaults": {
+      "unitType": "feet",
+      "unitDistance": 5,
+      "measurementMode": "metric",
+      "abstractRangeBands": [],
+      "diagonalRule": "equidistant"
+    },
+    "defaultWidgets": {},
+    "dice": {
+      "defaultRoll": "3d6",
+      "crit": "natural"
+    },
+    "customCreatureFilters": [],
+    "hiddenCreatureFilters": [],
+    "lootBases": []
+  },
+  "createdAt": 0,
+  "modifiedAt": 1791519821550
+}

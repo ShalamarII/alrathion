@@ -10,7 +10,6 @@ variants:
   - type: Default
     description: If another ally with the Coordinated Strike ability does a minor attack, you may use a minor attack in conjunction.
 ---
-identifier:identifier:
 ```datacorejsx
 const { AbilityCards, fromPage } = await dc.require("The Blackman TTRPG/components/AbilityCard.jsx");
 
