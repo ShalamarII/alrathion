@@ -14,7 +14,7 @@ Dexterity describes the ability to tactfully apply force against or with things.
 ##### Intelligence
 Intelligence describes the ability to apply thinking with versatility.
 ##### Social
-Social describes the ability to communicate with exactness.
+Social describes the ability to enforce and communicate with exactness.
 ##### Vigor
 Vigor describes the ability to maintain homeostasis. Your health is the 3 x Max Vigor Dice
 ##### Size Modifier

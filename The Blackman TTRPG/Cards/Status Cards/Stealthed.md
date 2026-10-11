@@ -7,9 +7,9 @@ image:
 pgRef: PG Ref.
 variants:
   - type: Default
-    description: All stealth-related rolls are 1 RD easier for you. All PER related checks for someone searching, tracking etc. are 1 RD harder for an enemy.
+    description: "All stealth-related rolls are 1 RD easier for you. All PER related checks for someone searching, tracking etc. are 1 RD harder for an enemy."
   - type: Enhanced
-    description: All stealth-related rolls are 2 RD easier for you. All PER related checks for someone searching, tracking etc. are 2 RD harder for an enemy.
+    description: "All stealth-related rolls are 2 RD easier for you. All PER related checks for someone searching, tracking etc. are 2 RD harder for an enemy."
 ---
 identifier:identifier:
 ```datacorejsx

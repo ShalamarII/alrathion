@@ -8,7 +8,7 @@ pgRef: PG Ref.
 variants:
   - type: Sheer
     dataRef:
-    description: You are off-balance, making it harder for you to cast spells & use abilities. Treat all RD as if it one level higher.
+    description: "You are off-balance, making it harder for you to cast spells & use abilities. Treat all RD as if it one level higher."
 ---
 
 ```datacorejsx

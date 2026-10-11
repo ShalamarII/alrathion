@@ -4,9 +4,8 @@ THE PROBLEM IS YOU HAVEN'T MADE ENOUGH SPELLS YOURSELF. YOU MADE THE FLAVOR BUT 
 ## What is it?
 ### Magik
 Magik is the psionic manipulation of Vraul's waveforms. In combination, these forms produce harmony or dissonance, creating Magik of different types. This also produces other effects, based on the mind of the caster and the spell cast. These effects are grounded by the strength of the spell being cast as well, have 3 stages each. Psionic energy cannot directly affect unbound (having a mind) things \[Natural Immunity to Mind Control, Charming, etc.\].
-
-Magic is similar to Vancian casting (Stored formulae that are released from the mind when cast) in that the formulae are stored in your memory, but they or not "gone"
-## Terminology 
+Magic is similar to Vancian casting (Stored formulae that are released from the mind when cast) in that the formulae are stored in your memory, but they or not "gone".
+## Terminology
 - Interactor: Any object that lacks the ability to create its own Vraul.
 - Note: Basic waveform of Vraul (Heat, Light, etc.)
 - Flourish: Modifiers (the spell description) (In universe, these are things added to the design of Laments)

@@ -9,9 +9,13 @@ Abilities can be two-sided, having a Major/Minor distinction. Major versions are
 
 
 ##### Types of Abilities:
-"Passive" - Abilities that auto-activate based on certain circumstances or are "always on"
-"Status" - Abilities that represent something that effects affects the environment or people  around you (Stunned, Difficult Terrain, Blinded, etc.) These abilities do not "belong to you" although they may have been caused by you.
-"Active" - Abilities that activate based on you choosing them and paying a resource cost. This can include "always on" abilities that can be switched on/off.
+"Passive" - Abilities that auto-activate based on certain circumstances or are "always on". They have only one side.
+"Status" - Abilities that represent something that effects affects the environment or people  around you (Stunned, Difficult Terrain, Blinded, etc.) These abilities do not "belong to you", although they may have been caused by you. They have an enhanced version
+"Active" - Abilities that activate based on you choosing them and paying a resource cost. This can include "always on" abilities that can be switched on/off. These have an enhanced version.
+"Spells" - Abilities that represent magical abilities. These have one side but have multiple "modes" of play based on the resource spent to cast them.
+Reaction
+Tactic
+
 
 Attack
 Reaction
