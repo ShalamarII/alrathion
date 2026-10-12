@@ -61,8 +61,7 @@
         "direction": "static",
         "color": "#06b6d4",
         "visibleToPlayers": false,
-        "slot": 1,
-        "defeatedWhenSpent": false
+        "slot": 1
       }
     ],
     "gridDefaults": {
