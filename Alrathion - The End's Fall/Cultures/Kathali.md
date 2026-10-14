@@ -1,7 +1,7 @@
 The kathali are a race that look similar to humans, but with beastlike features. They tend to grow quite a bit slower than humans, reaching adult physical maturity at the age of 30, and having a lifespan up to 180 years.
 
 ## Creation
-Some where given umbrae, others chose their own. These people naturally birthed children with more and more animalistic traits, causing the Kathali to be born.
+Some were given umbrae, others chose their own. These people naturally birthed children with more and more animalistic traits, causing the Kathali to be born.
 
 ## **Values**
 
