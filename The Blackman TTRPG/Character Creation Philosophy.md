@@ -3,6 +3,10 @@ Creating a character is about creating a story. You choose a gameplay style, cra
 The Mighty Nine
 
 https://anydice.com/program/439dc
+
+Health is in bars based on your VIG dice level. When you take a hit, you are reduced one bar.
+
+
 #### Stats
 
 Stats in this TTRPG are prerequisites for what you can learn, do, carry, etc. They are represented by a dice the same as skills. You will never be rolling a stat die, they are purely prerequisites.
@@ -31,6 +35,7 @@ Strength promoted by one dice (You buy 1d8 and it gets promoted to 1d10) and dex
 | Tiny                 | -1            |
 | Small, Medium, Large | 0             |
 | Extra Large          | +1            |
+
 ##### Stamina
 Stamina is how much you can take actions. You have a stamina equal to the dice level it has.
 ###### Recovery
