@@ -3,18 +3,6 @@
 	"columns": 6,
 	"components": [
 		{
-			"id": "group",
-			"type": "group",
-			"label": "Heading Group",
-			"position": {
-				"col": 1,
-				"row": 1,
-				"width": 3,
-				"height": 7
-			},
-			"hideLabel": true
-		},
-		{
 			"id": "passport",
 			"type": "passport",
 			"label": "Character",
@@ -166,6 +154,19 @@
 			"namePosition": 1,
 			"openRows": true,
 			"rowHeader": "Spell"
+		},
+		{
+			"id": "track",
+			"type": "track",
+			"label": "Health",
+			"position": {
+				"col": 1,
+				"row": 5,
+				"width": 6,
+				"height": 1
+			},
+			"openRows": true,
+			"rows": []
 		}
 	]
 }

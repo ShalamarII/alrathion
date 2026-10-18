@@ -27,3 +27,9 @@ In combat, you have "Enhancement Points". These can be spent on any ability to e
 
 Additionally, there are enhanced versions of Statuses.
 
+
+
+### Ability Types
+
+Preemptive Abilities: Roll to use, (Sets the DC), target saves against that DC.
+Instantaneous Abilities: Roll to hit, contested roll {STAT/SKILL}(Ground + Surfaces auto-fail)
