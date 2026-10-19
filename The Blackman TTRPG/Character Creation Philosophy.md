@@ -1,7 +1,5 @@
 Creating a character is about creating a story. You choose a gameplay style, craft a character that can have an arc, and ready yourselves to touch the world you are thrust upon.
 
-The Mighty Nine
-
 https://anydice.com/program/439dc
 
 Health is in bars based on your VIG dice level. When you take a hit, you are reduced one bar.
