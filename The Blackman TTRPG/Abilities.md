@@ -33,3 +33,4 @@ Additionally, there are enhanced versions of Statuses.
 
 Preemptive Abilities: Roll to use, (Sets the DC), target saves against that DC.
 Instantaneous Abilities: Roll to hit, contested roll {STAT/SKILL}(Ground + Surfaces auto-fail)
+Provided Abilities (Paladin-like): contested roll {STAT/SKILL}(Ground + Surfaces auto-fail)

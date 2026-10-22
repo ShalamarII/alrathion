@@ -39,7 +39,7 @@ SOC: d6
 |---|---|---|
 | Acrobatics |  | d10 |
 | Stealth |  | d10 |
-| Theivery |  | d12 |
+| Thievery |  | d12 |
 | Climbing |  | d10 |
 
 ## Abilities
