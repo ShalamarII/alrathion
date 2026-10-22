@@ -10,16 +10,15 @@ When performing a *Hail Mary* make the RD higher by the Hail Mary modifier (-HM)
 
 A Hail Mary is an extraordinary attempt to do something out of your normal reach.
 
-| Skill Level         | Skill Dice | Hail Mary Modifier | Skill # to Obtain |
-| ------------------- | ---------- | ------------------ | ----------------- |
-| Clear               | 1d4        | -2 RL              | 0                 |
-| Something           | 1d6        | -1 RL              | 2                 |
-| Something           | 1d8        | 0                  |                   |
-| Subtle              | 1d10       | 2                  |                   |
-| Opaque              | 1d12       | 1 RL               |                   |
-| Dense (d10 + d4)    | 1d14       | 2 RL               |                   |
-| Granular (d12 + d4) | 1d16       | 3 RL               |                   |
-| Surgical (d12 + d6) | 1d18       | 4 RL               |                   |
+| Skill Level         | Skill Dice | Hail Mary Modifier | Skill # to Obtain | Probability (%) |
+| ------------------- | ---------- | ------------------ | ----------------- | --------------- |
+| Clear               | 1d6        | 0                  |                   | 95              |
+| Subtle              | 1d8        | 0                  |                   | 84              |
+| Opaque              | 1d10       | 2                  |                   | 63              |
+| Dense               | 1d12       | 1 RL               |                   | 38              |
+| Granular (d10 + d4) | 1d14       | 2 RL               |                   | 16              |
+| Surgical (d12 + d4) | 1d16       | 3 RL               |                   | 4.6             |
+| Cryptic (d12 + d6)  | 1d18       | 4 RL               |                   | 0.5             |
 
 
 ##### Improving Basic Skills
