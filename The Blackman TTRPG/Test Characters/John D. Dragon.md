@@ -47,3 +47,12 @@ SOC: d6
 | Ability | Enhanced? | Type |
 |---|---|---|
 | [[Chokehold]] |  | Active |
+| [[Piercing Stab]] |  | Active |
+| [[Silent Steps]] |  | Active |
+
+## Inventory
+
+| Item | Qty | Weight |
+|---|---|---|
+| Rations | 7 | 5 |
+| Rope, 50 ft. |  | 5 |
