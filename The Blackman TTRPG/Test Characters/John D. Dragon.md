@@ -41,6 +41,7 @@ SOC: d6
 | Stealth |  | d10 |
 | Thievery |  | d12 |
 | Climbing |  | d10 |
+| Alchemy (Poisons) |  | d12 |
 
 ## Abilities
 
@@ -49,10 +50,15 @@ SOC: d6
 | [[Chokehold]] |  | Active |
 | [[Piercing Stab]] |  | Active |
 | [[Silent Steps]] |  | Active |
+| [[Craft Poison]] |  | Tactics |
 
 ## Inventory
 
 | Item | Qty | Weight |
 |---|---|---|
-| Rations | 7 | 5 |
+| Rations | 5 | 5 |
 | Rope, 50 ft. |  | 5 |
+| [[Adventurer's Pack]] |  | 8 |
+| Small Axe |  | 2 |
+| Small Hook |  | 1 |
+| Suloi Poison |  | 0 |
