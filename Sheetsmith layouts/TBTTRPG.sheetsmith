@@ -183,6 +183,10 @@
 		{
 			"columns": [
 				{
+					"key": "Cost",
+					"type": "number"
+				},
+				{
 					"key": "Qty",
 					"type": "number"
 				},
